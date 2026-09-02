@@ -52,7 +52,9 @@ Dejar todos los archivos nuevos/modificados en el working tree del repo local, s
 
 ### Paso 4 — Reportar en texto plano, sin repegar contenido
 
-Al terminar, reportar en 1-2 líneas por archivo: nombre, categoría (clase / extensión / bono / skill), y de qué trata. Nunca repegar el contenido completo de los archivos en el chat — ya quedaron escritos en el repo; Claude los revisa directamente ahí.
+Al terminar, reportar en 1-2 líneas **cada archivo que se creó, modificó, movió o eliminó** — nombre, categoría (clase / extensión / bono / skill), y de qué trata. Nunca repegar el contenido completo de los archivos en el chat — ya quedaron escritos en el repo; Claude los revisa directamente ahí.
+
+**El reporte tiene que ser exhaustivo, sin excepción.** Si en el proceso se reestructuró, renombró o partió algo que ya existía (ej. dividir un bono en dos, mover un skill), eso también se reporta explícitamente — no solo lo que se creó desde cero. Antes de entregar el reporte, correr `git status` (o el equivalente) y verificar que cada línea de salida tenga su fila correspondiente en el reporte. Un archivo tocado que no aparece en el reporte es un fallo del skill, aunque el contenido en sí esté bien hecho.
 
 ---
 
@@ -73,6 +75,7 @@ Al terminar, reportar en 1-2 líneas por archivo: nombre, categoría (clase / ex
 | Se sobreescribió una clase existente en vez de crear una extensión | No se buscó primero si el tema ya tenía archivo | Siempre revisar `curso-claude-code/clases/` antes de decidir el nombre del archivo |
 | Se hizo commit/push | No se respetó el Paso 3 | Dejar los cambios sin commitear siempre |
 | Se repegó el archivo completo en el reporte | No se respetó el Paso 4 | Reportar solo el resumen |
+| El reporte omitió archivos que sí se tocaron (ej. una reestructuración de bonos no declarada) | No se corrió `git status` antes de reportar, o se reportó solo "lo nuevo" y no "todo lo tocado" | Verificar el reporte contra `git status` línea por línea antes de entregarlo — cero excepciones, incluso para cambios que parezcan menores |
 
 ---
 
