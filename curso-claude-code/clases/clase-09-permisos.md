@@ -1,7 +1,7 @@
 # Clase 09 — Permisos & Comandos de Sesión
 
 **Tags:** `Permisos` `Comandos` `Seguridad`
-**Conecta con:** Clase 08 · Clase 10 · Bono Sesiones & Control Remoto
+**Conecta con:** Clase 08 · Clase 10 · Bono Control Remoto · Bono Gestión de Sesiones
 
 ---
 

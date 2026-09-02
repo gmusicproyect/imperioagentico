@@ -15,9 +15,10 @@ imperioagentico/
 ├── bonos/                      → Módulos extra del curso
 │   ├── ads-cabrones-ia/        → Pipeline de ads con IA
 │   ├── claude-design/          → Prototipado UI y handoff a Claude Code
+│   ├── control-remoto/         → Servidor local 24/7 y acceso desde el celular
+│   ├── gestion-sesiones/       → 5 métodos de sesiones y persistencia
 │   ├── go-high-level/          → Integración Claude Code + GHL
-│   ├── playwright/             → Automatización de browser
-│   └── sesiones-control-remoto/ → 5 métodos de sesiones y multi-dispositivo
+│   └── playwright/             → Automatización de browser
 ├── skills/                     → Skills reutilizables (.md)
 └── recursos/plantillas/        → CLAUDE.md global y por proyecto
 ```
@@ -26,7 +27,7 @@ imperioagentico/
 
 ## 🗺️ Módulos
 
-### Curso Claude Code — 18 clases
+### Curso Claude Code — 19 clases
 
 | # | Clase | Temas clave |
 |---|-------|-------------|
@@ -48,6 +49,7 @@ imperioagentico/
 | 16 | [Resumen final](./curso-claude-code/clases/clase-16-resumen.md) | Mapa completo del ecosistema |
 | 17 | [Media Buyer en producción](./curso-claude-code/clases/clase-17-media-buyer-produccion.md) | Personalización por país, research de competencia |
 | 18 | [LLM Wiki con Obsidian](./curso-claude-code/clases/clase-18-llm-wiki-obsidian.md) | Memoria infinita sin RAG, Karpathy, 4 operaciones |
+| 19 | [Skills en producción](./curso-claude-code/clases/clase-19-skills-en-produccion.md) | Casos reales, meta-skills (Skill Creator) y MCPs |
 
 ### Bonos
 
@@ -55,9 +57,10 @@ imperioagentico/
 |------|-------------|
 | [Ads Cabrones IA](./bonos/ads-cabrones-ia/) | Pipeline automático: Higgsfield + ElevenLabs + Airtable + ffmpeg |
 | [Claude Design](./bonos/claude-design/) | Prototipado visual con Opus 4.7 y handoff funcional a Claude Code |
+| [Control Remoto](./bonos/control-remoto/) | Tu computador completo en el celular (Mac Mini 24/7 + MCPs) |
+| [Gestión de Sesiones](./bonos/gestion-sesiones/) | 5 métodos de persistencia, recuperación y ramificación |
 | [Go High Level](./bonos/go-high-level/) | CRM completo desde terminal vía MCP |
 | [Playwright](./bonos/playwright/) | Automatización de browser sin API |
-| [Sesiones & Control Remoto](./bonos/sesiones-control-remoto/) | 5 métodos de persistencia, sincronización remota y multi-dispositivo |
 
 ---
 
@@ -74,13 +77,14 @@ imperioagentico/
 
 ```
 Clase 01 (Ecosistema) ──→ Bono Claude Design
-Clase 04 (CLAUDE.md) ──→ Clase 05 (Skills) ──→ Skills/
-Clase 06 (MCP)       ──→ Bono GHL
-Clase 07 (Browser)   ──→ Bono Playwright
-Clase 09 (Permisos)  ──→ Bono Sesiones & Control Remoto
-Clase 10 (Agentes)   ──→ Clase 14 (Media Buyer)
-Clase 12 (Routines)  ──→ Bono Ads Cabrones IA
-Clase 13 (Obsidian)  ──→ Clase 18 (LLM Wiki)
+Clase 04 (CLAUDE.md)  ──→ Clase 05 (Skills) ──→ Skills/
+Clase 05 (Skills)     ──→ Clase 19 (Skills en Producción)
+Clase 06 (MCP)        ──→ Bono GHL
+Clase 07 (Browser)    ──→ Bono Playwright
+Clase 09 (Permisos)   ──→ Bono Control Remoto · Bono Gestión de Sesiones
+Clase 10 (Agentes)    ──→ Clase 14 (Media Buyer)
+Clase 12 (Routines)   ──→ Bono Ads Cabrones IA
+Clase 13 (Obsidian)   ──→ Clase 18 (LLM Wiki)
 ```
 
 ---

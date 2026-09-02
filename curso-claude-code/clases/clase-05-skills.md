@@ -1,7 +1,7 @@
 # Clase 05 — Skills
 
 **Tags:** `Skills` `SOPs` `Reutilización`
-**Conecta con:** Clase 04 · Clase 12
+**Conecta con:** Clase 04 · Clase 12 · Clase 19
 
 ---
 

@@ -1,4 +1,4 @@
-# Bono: Sesiones & Control Remoto — 5 Métodos de Persistencia y Multi-dispositivo
+# Bono: Gestión de Sesiones — 5 Métodos de Persistencia y Multi-dispositivo
 
 Cerrar la terminal tras una sesión intensa de desarrollo y tener que volver a explicar todo el contexto desde cero es uno de los problemas más comunes al usar agentes CLI. Claude Code incluye 5 métodos nativos para persistir, retomar, bifurcar y compartir sesiones en tiempo real entre terminal, desktop y celular.
 
