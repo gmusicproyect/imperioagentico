@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "ghl": {
+      "type": "http",
+      "url": "https://services.leadconnectorhq.com/mcp/",
+      "headers": {
+        "Authorization": "Bearer TU_PIT_AQUI",
+        "Version": "2021-07-28",
+        "locationId": "TU_LOCATION_ID"
+      }
+    }
+  }
+}
