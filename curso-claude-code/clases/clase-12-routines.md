@@ -54,6 +54,16 @@ VPS (Ubuntu)
 
 ---
 
+## 🎯 Ejercicio práctico
+
+**Ejercicio 1:** Redacta una Routine de Claude Code para automatizar una tarea recurrente de tu proyecto (ejemplo: auditar cambios en el repositorio cada mañana, generar un resumen de pendientes en `resumen-diario.md` y emitir una alerta si hay archivos sin documentar). Ejecútala en Claude Code de forma manual como prueba piloto para verificar cada paso.
+
+**Ejercicio 2 (avanzado):** Diseña en un archivo `plan-despliegue-vps.md` el esquema técnico para migrar esa Routine a N8N y un VPS (servidor Ubuntu, cron jobs, variables de entorno y alertas), definiendo qué eventos dispararán la ejecución.
+
+*Este ejercicio te deja testeada la lógica de tu primera rutina recurrente y planificada su infraestructura en producción.*
+
+---
+
 ## 💡 Tip
 
 Empieza con Routines nativas para validar el workflow. Migra a VPS solo cuando necesites más volumen, más triggers, o que corra mientras tienes la laptop apagada.

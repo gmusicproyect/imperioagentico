@@ -41,6 +41,16 @@ Claude Code es la evolución natural del ecosistema Anthropic: primero existía 
 
 ---
 
+## 🎯 Ejercicio práctico
+
+**Ejercicio 1:** Abre Claude Code en una carpeta vacía de prueba y pídele en lenguaje natural que cree un archivo `bienvenida.md` con un saludo y ejecute un comando de terminal para mostrar la versión de Node.js o del sistema. Verifica que el archivo se creó y que el comando corrió en la terminal.
+
+**Ejercicio 2 (avanzado):** Pídele a Claude Code que lea el archivo que acaba de crear y le agregue una tabla comparando brevemente Claude Cowork vs Claude Code.
+
+*Este ejercicio te deja listo tu primer espacio de trabajo y la verificación de que Claude Code puede editar archivos y ejecutar comandos de terminal.*
+
+---
+
 ## ⚠️ Error común
 
 No confundir **Cowork** (mueve archivos, sin terminal) con **Code** (tiene terminal completa). Son productos distintos con capacidades muy diferentes.

@@ -33,6 +33,16 @@ Claude Code pide confirmación antes de ejecutar acciones con consecuencias (bor
 
 ---
 
+## 🎯 Ejercicio práctico
+
+**Ejercicio 1:** Abre Claude Code en modo Default (con permisos manuales) y solicita una acción que modifique el sistema de archivos (ej. crear `test-permisos.sh`). Observa cómo el agente se detiene a pedir confirmación antes de ejecutar. Luego, prueba en la misma sesión los comandos `/cost`, `/model` y `/clear`.
+
+**Ejercicio 2 (avanzado):** Prueba a ejecutar una tarea de análisis indicándole que actúe en modo solo lectura (read-only) para auditar un archivo sin alterar nada en el disco, comprobando que no solicite permisos de escritura.
+
+*Este ejercicio te deja dominado el control de permisos y los comandos esenciales para operar Claude Code con seguridad.*
+
+---
+
 ## 💡 Tip
 
 Usa auto-accept solo cuando el flow ya está probado y sabes exactamente qué va a hacer Claude Code. Para flows nuevos, confirma cada paso para entender qué está ejecutando.

@@ -29,6 +29,16 @@ Hay 3 formas de correr Claude Code. La app de escritorio es la recomendada para 
 
 ---
 
+## 🎯 Ejercicio práctico
+
+**Ejercicio 1:** Abre la app de escritorio de Claude Code (o tu terminal), navega a la carpeta donde desarrollarás el proyecto del curso y pídele a Claude Code que compruebe tu entorno ejecutando los comandos para verificar que Node.js y npm están correctamente instalados.
+
+**Ejercicio 2 (avanzado):** Pídele a Claude Code que cree dentro de esa carpeta un archivo `entorno.json` con la información del sistema operativo, versión de Node y ruta actual de trabajo, y verifica su contenido en tu explorador de archivos.
+
+*Este ejercicio deja validada tu instalación y preparado el directorio de trabajo local para el resto del curso.*
+
+---
+
 ## 💡 Tip
 
 Instala la app de escritorio aunque después uses la terminal — la interfaz visual es útil para entender qué hace Claude Code antes de automatizarlo.

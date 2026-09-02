@@ -53,6 +53,16 @@ Obsidian Vault
 
 ---
 
+## 🎯 Ejercicio práctico
+
+**Ejercicio 1:** Crea en tu proyecto una carpeta `segundo-cerebro/` con subcarpetas `clientes/` y `learnings/`. Añade un archivo `cliente-ejemplo-perfil.md` con datos como: nombre, tono de voz preferido, servicios contratados y restricciones. Pídele a Claude Code: "Consulta `segundo-cerebro/clientes/cliente-ejemplo-perfil.md` y redacta un correo de actualización mensual respetando el tono y las restricciones del cliente".
+
+**Ejercicio 2 (avanzado):** Añade un archivo `learnings/lecciones-aprendidas.md` con 2 reglas aprendidas de proyectos previos. Pídele a Claude Code que genere una propuesta consultando tanto el perfil del cliente como las lecciones aprendidas, y comprueba que cite las fuentes consultadas.
+
+*Este ejercicio deja implementada la estructura de segundo cerebro (RAG) para alimentar a tu agente con contexto persistente.*
+
+---
+
 ## 💡 Tip
 
 La clave del RAG efectivo está en nombrar bien los archivos. `cliente-acme-perfil.md` es 100 veces más fácil de encontrar para Claude Code que `notas-reunion-martes.md`.

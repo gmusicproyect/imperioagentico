@@ -44,6 +44,16 @@ Ultra (Orquestador)
 
 ---
 
+## 🎯 Ejercicio práctico
+
+**Ejercicio 1:** Diseña un prompt para Claude Code donde asuma el rol de orquestador (Ultra) y divida una tarea en subtareas paralelas: dale dos archivos de texto o dos fuentes de información independientes, pídele que procese cada una en paralelo y consolide los resultados en un archivo `informe-consolidado.md`.
+
+**Ejercicio 2 (avanzado):** Configura en tu `CLAUDE.md` una sección de arquitectura agéntica definiendo los roles de tu sistema (orquestador, especialista de datos y especialista de reporte), e inicia una tarea donde el orquestador delegue según esos roles.
+
+*Este ejercicio te deja implementada la arquitectura de orquestación y división de roles para los flujos paralelos de tu proyecto.*
+
+---
+
 ## 💡 Tip
 
 El orquestador funciona mejor con instrucciones de alto nivel. No le digas *cómo* hacer las cosas — dile *qué* resultado esperas y deja que divida el trabajo él solo.

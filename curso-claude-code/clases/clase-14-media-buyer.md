@@ -56,6 +56,16 @@ Tu objetivo es mantener el CPA por debajo de [X] en todas las campañas activas.
 
 ---
 
+## 🎯 Ejercicio práctico
+
+**Ejercicio 1:** Crea una carpeta `proyectos/media-buyer/` y dentro escribe un `CLAUDE.md` completo para un Media Buyer Agent, incluyendo objetivos numéricos de CPA, reglas claras de cuándo pausar anuncios y límites estrictos de gasto diario para operar con seguridad.
+
+**Ejercicio 2 (avanzado):** Crea un archivo `datos-campanas-simuladas.json` con 4 anuncios con diferentes gastos y CPAs. Pídele a Claude Code que procese los datos aplicando estrictamente las reglas de pausa de su `CLAUDE.md` y te entregue una tabla con las decisiones tomadas y el borrador del reporte para Telegram.
+
+*Este ejercicio te deja listo el CLAUDE.md especializado y las reglas operativas de control de riesgo para un agente de media buying.*
+
+---
+
 ## 💡 Tip
 
 Define umbrales claros en el CLAUDE.md antes de darle autonomía al agente. Sin reglas numéricas explícitas, Claude Code puede ser demasiado conservador o demasiado agresivo al pausar ads.

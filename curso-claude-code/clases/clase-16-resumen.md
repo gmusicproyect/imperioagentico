@@ -56,4 +56,14 @@ Cada clase enseñó una pieza. Este mapa muestra cómo encajan.
 
 ---
 
+## 🎯 Ejercicio práctico
+
+**Ejercicio 1:** Pídele a Claude Code que audite todo tu repositorio de trabajo contrastando tus archivos contra los 7 puntos del "Checklist del agente listo para producción" de esta clase, y que genere un reporte `auditoria-agente.md` indicando qué elementos están listos y cuáles faltan.
+
+**Ejercicio 2 (avanzado):** Con los puntos identificados como pendientes en la auditoría, pídele a Claude Code que te ayude a completar el elemento más crítico que falte (por ejemplo, definir el framework DAME o ajustar las alertas) hasta dejar el checklist 100% aprobado.
+
+*Este ejercicio te deja realizada la auditoría integral de tu proyecto y tu agente completamente verificado para operar en producción.*
+
+---
+
 *Fin del curso Claude Code — Imperio Digital*

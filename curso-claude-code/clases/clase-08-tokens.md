@@ -31,6 +31,8 @@ Claude Code trabaja con una ventana de contexto limitada. Saber cómo se consume
 
 **Skills cortos:** Un SKILL.md de 50 líneas es mejor que uno de 500. El contexto que no se necesita es contexto desperdiciado.
 
+**Monitoreo:** Usa `/cost` en cualquier momento para ver cuántos tokens llevas consumidos en la sesión actual.
+
 ---
 
 ## Señales de contexto saturado
@@ -40,6 +42,16 @@ Claude Code trabaja con una ventana de contexto limitada. Saber cómo se consume
 - Errores extraños en tareas que antes funcionaban
 
 **Solución:** Empieza una nueva sesión o usa `/compact` para limpiar el historial.
+
+---
+
+## 🎯 Ejercicio práctico
+
+**Ejercicio 1:** Inicia una sesión en Claude Code, revisa el consumo de tokens inicial con `/cost`, pídele analizar un archivo mediano de tu proyecto y vuelve a ejecutar `/cost` para comprobar con exactitud cuántos tokens de entrada y salida consumió esa operación.
+
+**Ejercicio 2 (avanzado):** Ejecuta el comando `/compact` para forzar la reducción del historial de la sesión. Luego, hazle una pregunta que dependa directamente de una regla definida al comienzo de tu `CLAUDE.md` para verificar que el contexto esencial sobrevivió a la compactación.
+
+*Este ejercicio te deja dominada la técnica de monitoreo de gasto y compactación de memoria para sesiones de trabajo extensas.*
 
 ---
 

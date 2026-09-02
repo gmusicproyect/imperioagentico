@@ -63,6 +63,16 @@ Referencia en CLAUDE.md: `- /skills/crear-contacto-ghl/SKILL.md → para crear c
 
 ---
 
+## 🎯 Ejercicio práctico
+
+**Ejercicio 1:** Crea la carpeta `skills/crear-resumen-proyecto/` y dentro escribe un `SKILL.md` con las 5 secciones (Cuándo usar, Pasos, Herramientas, Errores comunes, Notas) para generar un informe del estado del proyecto. Luego, añade la referencia al skill en tu `CLAUDE.md`.
+
+**Ejercicio 2 (avanzado):** Pídele a Claude Code: "Aplica el skill crear-resumen-proyecto". Verifica que el agente lea el archivo `SKILL.md` antes de ejecutar la tarea y que el archivo resultante siga el procedimiento documentado paso a paso.
+
+*Este ejercicio te deja lista la carpeta `/skills/` y tu primer SOP operativo conectado al CLAUDE.md de tu proyecto.*
+
+---
+
 ## 💡 Tip
 
 Crea un skill después de hacer algo bien 2 veces. Si repetiste un proceso manualmente dos veces, ya vale la pena documentarlo como skill.

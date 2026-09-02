@@ -40,6 +40,16 @@ No necesitas más para tu primer cliente.
 
 ---
 
+## 🎯 Ejercicio práctico
+
+**Ejercicio 1:** Elige uno de los 3 caminos post-curso (Freelancer agéntico, Emprendedor o Dominio técnico) y crea en tu repositorio un archivo `mi-oferta-mvp.md` definiendo tu nicho objetivo, el conector MCP principal que vas a implementar y la promesa de servicio concreta que resolverás.
+
+**Ejercicio 2 (avanzado):** Redacta con Claude Code el borrador de tu primer `SKILL.md` comercializable en `/skills/servicio-[tu-nicho]/SKILL.md`, detallando el paso a paso exacto que ejecutará tu agente cuando un cliente te entregue sus credenciales o requerimientos.
+
+*Este ejercicio te deja estructurada tu oferta comercial y el SOP operativo de tu primer servicio agéntico vendible.*
+
+---
+
 ## 💡 Tip
 
 Tu ventaja competitiva no es saber más de IA — es saber combinar Claude Code con el contexto del negocio del cliente. Eso es lo que la mayoría no sabe hacer.

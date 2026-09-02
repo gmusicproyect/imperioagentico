@@ -52,6 +52,16 @@ Eres [nombre]. Tu función es [propósito].
 
 ---
 
+## 🎯 Ejercicio práctico
+
+**Ejercicio 1:** Crea un archivo `CLAUDE.md` en la raíz de tu proyecto siguiendo la estructura recomendada: define la identidad del agente, el contexto de tu proyecto, reglas claras de comportamiento y las secciones para herramientas y skills.
+
+**Ejercicio 2 (avanzado):** Inicia una nueva sesión en Claude Code y pregúntale: "¿Quién eres, cuál es tu objetivo en este proyecto y qué reglas de comportamiento tienes asignadas?". Comprueba que su respuesta refleje exactamente lo que redactaste en tu `CLAUDE.md`.
+
+*Este ejercicio te deja listo el archivo CLAUDE.md local, que servirá como la memoria persistente central de tu proyecto.*
+
+---
+
 ## 💡 Tip
 
 Empieza el CLAUDE.md con una línea de identidad clara: `Eres [nombre], un agente especializado en [dominio].` Claude Code usa esto como ancla para todas sus decisiones.

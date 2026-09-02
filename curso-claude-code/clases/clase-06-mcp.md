@@ -61,6 +61,16 @@ Corre esto en Claude Code para ver qué servidores MCP están conectados y dispo
 
 ---
 
+## 🎯 Ejercicio práctico
+
+**Ejercicio 1:** Crea un archivo `.mcp.json` en la raíz de tu proyecto definiendo la conexión a un servidor MCP (por ejemplo un conector HTTP de prueba o de tu servicio de preferencia, asegurando incluir `"type": "http"`). Abre Claude Code y corre `/mcp` para verificar que el servidor aparezca listado y activo.
+
+**Ejercicio 2 (avanzado):** Añade en tu `CLAUDE.md` una regla de contingencia que indique a Claude Code que si una acción requerida no está disponible mediante las herramientas del MCP, recurra a la API REST directa documentando los parámetros necesarios.
+
+*Este ejercicio te deja configurado el archivo `.mcp.json` y la verificación de conectores externos para tu proyecto.*
+
+---
+
 ## 💡 Tip
 
 Si un MCP no cubre una acción que necesitas, instrúyele a Claude Code en el CLAUDE.md que haga fallback a la API REST del mismo servicio usando las mismas credenciales.

@@ -57,6 +57,16 @@ Routine diaria → activa Playwright → extrae métricas → guarda en Airtable
 
 ---
 
+## 🎯 Ejercicio práctico
+
+**Ejercicio 1:** Conecta el MCP de Playwright a Claude Code y pídele en modo headed (con ventana visible): "Abre Chrome, entra a https://news.ycombinator.com (o un sitio de noticias público), extrae los títulos de las 3 noticias principales y guárdalos en un archivo `titulares.md`". Comprueba que el navegador se abra, realice la extracción y cree el archivo.
+
+**Ejercicio 2 (avanzado):** Repite la consulta solicitando el modo headless y extrayendo un dato adicional (como puntos o enlaces), verificando que la tarea termine más rápido y sin abrir la ventana visual.
+
+*Este ejercicio te deja preparado el mecanismo de navegación y extracción web automatizada para apps sin API.*
+
+---
+
 ## 💡 Tip
 
 Para sesiones autenticadas, usa perfiles persistentes de Chrome. Playwright puede mantener la sesión iniciada entre ejecuciones sin volver a hacer login.
