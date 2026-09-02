@@ -11,8 +11,7 @@ Base de conocimiento completa del curso **Claude Code** de Imperio Digital, incl
 ```
 imperioagentico/
 ├── curso-claude-code/          → Módulo principal (16 clases)
-│   ├── clases/                 → Resumen de cada clase en Markdown
-│   └── base-conocimiento.html  → Widget visual interactivo
+│   └── clases/                 → Resumen de cada clase en Markdown
 ├── bonos/                      → Módulos extra del curso
 │   ├── ads-cabrones-ia/        → Pipeline de ads con IA
 │   ├── go-high-level/          → Integración Claude Code + GHL

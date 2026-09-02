@@ -17,7 +17,7 @@ Claude Code puede correr en loops continuos orientados a objetivos en lugar de e
 |-------|----------|---------|
 | **D** | **Destino** | "Conseguir 10 leads calificados" |
 | **A** | **Acciones** | "Buscar en LinkedIn, verificar email, guardar en GHL" |
-| **M** | **Métrica** | "Lead calificado = empresa +50 empleados, cargo C-level" |
+| **M** | **Métrica** | "Lead calificado = empresa +20 empleados, cargo C-level" |
 | **E** | **Estado de parada** | "Parar cuando haya 10 leads en GHL con status Verificado" |
 
 ---
