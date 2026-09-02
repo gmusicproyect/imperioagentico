@@ -16,6 +16,9 @@ Documentación completa de las 16 clases del curso. Cada clase está en su propi
 **Semana 4 — Producción**
 → Clase 13 → 14 → 15 → 16
 
+**Extra — Caso real aplicado**
+→ Clase 17 (profundiza la Clase 14 con personalización y research de competencia)
+
 ## Archivos
 
 | Archivo | Clase |
@@ -36,3 +39,4 @@ Documentación completa de las 16 clases del curso. Cada clase está en su propi
 | [clase-14-media-buyer.md](./clases/clase-14-media-buyer.md) | Proyecto Media Buyer |
 | [clase-15-cierre.md](./clases/clase-15-cierre.md) | Cierre & siguientes pasos |
 | [clase-16-resumen.md](./clases/clase-16-resumen.md) | Resumen final |
+| [clase-17-media-buyer-produccion.md](./clases/clase-17-media-buyer-produccion.md) | Media Buyer en producción (personalización + competencia) |

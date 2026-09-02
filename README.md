@@ -24,7 +24,7 @@ imperioagentico/
 
 ## 🗺️ Módulos
 
-### Curso Claude Code — 16 clases
+### Curso Claude Code — 17 clases
 
 | # | Clase | Temas clave |
 |---|-------|-------------|
@@ -44,6 +44,7 @@ imperioagentico/
 | 14 | [Proyecto Media Buyer](./curso-claude-code/clases/clase-14-media-buyer.md) | Meta MCP, Hailuo, agente real |
 | 15 | [Cierre & siguientes pasos](./curso-claude-code/clases/clase-15-cierre.md) | Freelance, emprendimiento, roadmap |
 | 16 | [Resumen final](./curso-claude-code/clases/clase-16-resumen.md) | Mapa completo del ecosistema |
+| 17 | [Media Buyer en producción](./curso-claude-code/clases/clase-17-media-buyer-produccion.md) | Personalización por país, research de competencia |
 
 ### Bonos
 
