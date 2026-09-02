@@ -14,6 +14,7 @@ imperioagentico/
 │   └── clases/                 → Resumen de cada clase en Markdown
 ├── bonos/                      → Módulos extra del curso
 │   ├── ads-cabrones-ia/        → Pipeline de ads con IA
+│   ├── claude-design/          → Prototipado UI y handoff a Claude Code
 │   ├── go-high-level/          → Integración Claude Code + GHL
 │   └── playwright/             → Automatización de browser
 ├── skills/                     → Skills reutilizables (.md)
@@ -52,6 +53,7 @@ imperioagentico/
 | Bono | Descripción |
 |------|-------------|
 | [Ads Cabrones IA](./bonos/ads-cabrones-ia/) | Pipeline automático: Higgsfield + ElevenLabs + Airtable + ffmpeg |
+| [Claude Design](./bonos/claude-design/) | Prototipado visual con Opus 4.7 y handoff funcional a Claude Code |
 | [Go High Level](./bonos/go-high-level/) | CRM completo desde terminal vía MCP |
 | [Playwright](./bonos/playwright/) | Automatización de browser sin API |
 
@@ -69,6 +71,7 @@ imperioagentico/
 ## 🔗 Conexiones entre módulos
 
 ```
+Clase 01 (Ecosistema) ──→ Bono Claude Design
 Clase 04 (CLAUDE.md) ──→ Clase 05 (Skills) ──→ Skills/
 Clase 06 (MCP)       ──→ Bono GHL
 Clase 07 (Browser)   ──→ Bono Playwright

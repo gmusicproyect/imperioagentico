@@ -1,7 +1,7 @@
 # Clase 01 — Ecosistema Anthropic & productos Claude
 
 **Tags:** `Infraestructura` `Fundamentos`
-**Conecta con:** Clase 02 · Clase 04
+**Conecta con:** Clase 02 · Clase 04 · Bono Claude Design
 
 ---
 
