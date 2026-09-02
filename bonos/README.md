@@ -10,3 +10,4 @@ Módulos adicionales del curso Claude Code. Cada bono tiene su propia carpeta co
 | [Go High Level](./go-high-level/) | CRM completo desde terminal | GHL MCP · Claude Code |
 | [Playwright](./playwright/) | Automatización de browser sin API | Playwright MCP · Claude Code |
 | [Claude Design](./claude-design/) | Del prototipo UI visual al handoff funcional | Claude Design (Opus 4.7) · Claude Code · ElevenLabs |
+| [Sesiones & Control Remoto](./sesiones-control-remoto/) | 5 métodos para persistir, retomar y compartir sesiones | Claude Code CLI · Remote Control · SDK |

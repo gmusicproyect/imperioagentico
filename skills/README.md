@@ -28,6 +28,7 @@ Usa nombres descriptivos en kebab-case que indiquen **qué hace** el skill:
 
 | Skill | Descripción |
 |-------|-------------|
+| [gestionar-sesiones](./gestionar-sesiones/SKILL.md) | Persistir, retomar y compartir sesiones de Claude Code entre terminal, desktop y móvil |
 | [handoff-claude-design](./handoff-claude-design/SKILL.md) | Importar y convertir diseños de Claude Design en código funcional con Claude Code |
 | [gestionar-llm-wiki](./gestionar-llm-wiki/SKILL.md) | Operar y mantener base de conocimiento tipo LLM Wiki (Ingest, Query, Lint, Bulk) |
 | [subir-campana-meta-personalizada](./subir-campana-meta-personalizada/SKILL.md) | Subir creativos y campañas a Meta Ads con personalización por país |

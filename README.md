@@ -16,7 +16,8 @@ imperioagentico/
 │   ├── ads-cabrones-ia/        → Pipeline de ads con IA
 │   ├── claude-design/          → Prototipado UI y handoff a Claude Code
 │   ├── go-high-level/          → Integración Claude Code + GHL
-│   └── playwright/             → Automatización de browser
+│   ├── playwright/             → Automatización de browser
+│   └── sesiones-control-remoto/ → 5 métodos de sesiones y multi-dispositivo
 ├── skills/                     → Skills reutilizables (.md)
 └── recursos/plantillas/        → CLAUDE.md global y por proyecto
 ```
@@ -56,6 +57,7 @@ imperioagentico/
 | [Claude Design](./bonos/claude-design/) | Prototipado visual con Opus 4.7 y handoff funcional a Claude Code |
 | [Go High Level](./bonos/go-high-level/) | CRM completo desde terminal vía MCP |
 | [Playwright](./bonos/playwright/) | Automatización de browser sin API |
+| [Sesiones & Control Remoto](./bonos/sesiones-control-remoto/) | 5 métodos de persistencia, sincronización remota y multi-dispositivo |
 
 ---
 
@@ -75,6 +77,7 @@ Clase 01 (Ecosistema) ──→ Bono Claude Design
 Clase 04 (CLAUDE.md) ──→ Clase 05 (Skills) ──→ Skills/
 Clase 06 (MCP)       ──→ Bono GHL
 Clase 07 (Browser)   ──→ Bono Playwright
+Clase 09 (Permisos)  ──→ Bono Sesiones & Control Remoto
 Clase 10 (Agentes)   ──→ Clase 14 (Media Buyer)
 Clase 12 (Routines)  ──→ Bono Ads Cabrones IA
 Clase 13 (Obsidian)  ──→ Clase 18 (LLM Wiki)
