@@ -24,7 +24,7 @@ imperioagentico/
 
 ## 🗺️ Módulos
 
-### Curso Claude Code — 17 clases
+### Curso Claude Code — 18 clases
 
 | # | Clase | Temas clave |
 |---|-------|-------------|
@@ -45,6 +45,7 @@ imperioagentico/
 | 15 | [Cierre & siguientes pasos](./curso-claude-code/clases/clase-15-cierre.md) | Freelance, emprendimiento, roadmap |
 | 16 | [Resumen final](./curso-claude-code/clases/clase-16-resumen.md) | Mapa completo del ecosistema |
 | 17 | [Media Buyer en producción](./curso-claude-code/clases/clase-17-media-buyer-produccion.md) | Personalización por país, research de competencia |
+| 18 | [LLM Wiki con Obsidian](./curso-claude-code/clases/clase-18-llm-wiki-obsidian.md) | Memoria infinita sin RAG, Karpathy, 4 operaciones |
 
 ### Bonos
 
@@ -73,6 +74,7 @@ Clase 06 (MCP)       ──→ Bono GHL
 Clase 07 (Browser)   ──→ Bono Playwright
 Clase 10 (Agentes)   ──→ Clase 14 (Media Buyer)
 Clase 12 (Routines)  ──→ Bono Ads Cabrones IA
+Clase 13 (Obsidian)  ──→ Clase 18 (LLM Wiki)
 ```
 
 ---

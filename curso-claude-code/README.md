@@ -1,6 +1,6 @@
 # Curso Claude Code — Imperio Digital
 
-Documentación completa de las 16 clases del curso. Cada clase está en su propio archivo `.md` con conceptos clave, estructura, ejemplos y errores comunes.
+Documentación completa de las 16 clases núcleo del curso, más extensiones prácticas (17, 18...). Cada clase está en su propio archivo `.md` con conceptos clave, estructura, ejemplos y errores comunes.
 
 ## Orden de estudio recomendado
 
@@ -16,8 +16,9 @@ Documentación completa de las 16 clases del curso. Cada clase está en su propi
 **Semana 4 — Producción**
 → Clase 13 → 14 → 15 → 16
 
-**Extra — Caso real aplicado**
+**Extra — Casos reales aplicados y extensiones**
 → Clase 17 (profundiza la Clase 14 con personalización y research de competencia)
+→ Clase 18 (profundiza la Clase 13 con LLM Wiki estilo Karpathy sin RAG)
 
 ## Archivos
 
@@ -40,3 +41,4 @@ Documentación completa de las 16 clases del curso. Cada clase está en su propi
 | [clase-15-cierre.md](./clases/clase-15-cierre.md) | Cierre & siguientes pasos |
 | [clase-16-resumen.md](./clases/clase-16-resumen.md) | Resumen final |
 | [clase-17-media-buyer-produccion.md](./clases/clase-17-media-buyer-produccion.md) | Media Buyer en producción (personalización + competencia) |
+| [clase-18-llm-wiki-obsidian.md](./clases/clase-18-llm-wiki-obsidian.md) | LLM Wiki con Obsidian (memoria infinita sin RAG) |

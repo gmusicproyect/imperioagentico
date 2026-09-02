@@ -1,7 +1,7 @@
 # Clase 13 — Segundo Cerebro & RAG con Obsidian
 
 **Tags:** `Obsidian` `RAG` `Memoria` `Segundo Cerebro`
-**Conecta con:** Clase 04 · Clase 10
+**Conecta con:** Clase 04 · Clase 10 · Clase 18
 
 ---
 
