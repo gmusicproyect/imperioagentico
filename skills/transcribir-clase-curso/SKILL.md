@@ -61,6 +61,16 @@ listas para pasos o conceptos enumerados.]
 
 ---
 
+## 🎯 Ejercicio práctico
+
+**Ejercicio 1:** [Consigna concreta y acotada que el alumno ejecuta en Claude Code usando SOLO lo visto en esta clase y anteriores — nunca algo que dependa de una clase futura. Debe tomar 15-30 min y tener un resultado verificable: el alumno sabe si le funcionó o no.]
+
+**Ejercicio 2 (opcional, más avanzado):** [Extiende el ejercicio 1 o lo conecta con una clase anterior relacionada.]
+
+*Si el tema de la clase aporta una pieza al proyecto final del alumno (ej. su propio CLAUDE.md, un skill, un agente), decir explícitamente qué pieza es: "Este ejercicio te deja listo el/la [componente] de tu proyecto."*
+
+---
+
 ## 💡 Tip
 
 [Un solo consejo accionable y específico, aplicable la próxima vez que se use lo enseñado.]
@@ -74,10 +84,12 @@ listas para pasos o conceptos enumerados.]
 
 **Reglas de formato:**
 - `---` separa cada sección de nivel `##` — nunca se omite
-- Máximo 60-90 líneas por archivo. Si es más largo, está cubriendo dos temas y debería dividirse en dos clases
+- Máximo 70-110 líneas por archivo (el ejercicio práctico suma largo respecto a las clases 01-16). Si se pasa mucho de eso, está cubriendo dos temas y debería dividirse en dos clases
 - Tablas de máximo 5-6 filas — más que eso, es una lista o hay que resumir
 - Sin relleno: cada línea aporta información nueva, no repite lo de arriba con otras palabras
 - Tono directo, español neutro, sin muletillas ni "en este video vamos a..."
+- El **Ejercicio práctico es obligatorio** y no es opcional como el Tip o el Error común: es la parte que convierte la clase en aprendizaje activo, no solo lectura
+- El ejercicio nunca requiere una herramienta o concepto que no se haya visto todavía en el curso — solo usa lo ya explicado hasta esa clase
 - No inventar contenido que no esté en la fuente. Si algo no quedó claro, marcar `[PENDIENTE: confirmar con Juan]` en vez de rellenar con una suposición
 
 ### Paso 4 — Actualizar los índices
@@ -91,9 +103,10 @@ En el mismo commit que crea la clase:
 
 ## Outputs esperados
 
-- 1 archivo `clase-NN-slug.md` en `curso-claude-code/clases/`, con la estructura exacta de arriba
+- 1 archivo `clase-NN-slug.md` en `curso-claude-code/clases/`, con la estructura exacta de arriba **incluyendo el ejercicio práctico**
 - Los 2 índices (README raíz y README del módulo) actualizados con la fila nueva
 - Sin secciones extra fuera de la estructura (nada de "Introducción" o "Conclusión")
+- El alumno puede leer la clase y, en la misma sesión, hacer el ejercicio sin salir a buscar información externa
 
 ---
 
@@ -103,7 +116,9 @@ En el mismo commit que crea la clase:
 |-------|---------------|---------|
 | Archivo de 200+ líneas | Se transcribió todo literal en vez de sintetizar | Volver al Paso 1: encontrar la idea central y cortar lo que no la sirve |
 | Tags genéricos (`Curso`, `Clase`) | No se identificaron los conceptos específicos | Usar sustantivos concretos del contenido (ej: `MCP`, `Skills`) |
-| Falta el Tip o el Error común | Se copió la transcripción sin sintetizar | Son obligatorios; si no hay un error común real, se omite la sección — nunca se rellena inventado |
+| Falta el Ejercicio práctico | Se trató como sección opcional igual que el Tip | Es obligatoria — sin ella la clase es solo teoría y no cumple el propósito del repo |
+| Ejercicio teórico ("explica con tus palabras...") en vez de accionable | Es más fácil escribir una pregunta que un ejercicio ejecutable | El ejercicio debe hacerse EN Claude Code, con un resultado que se pueda verificar (un archivo creado, un comando que corrió, un output concreto) |
+| Ejercicio requiere algo de una clase futura | No se revisó el orden del curso antes de escribir el ejercicio | Solo usar herramientas/conceptos ya cubiertos hasta esa clase |
 | Índices no actualizados | Se creó el archivo pero no se tocó el README | Repetir el Paso 4 antes de dar la tarea por terminada |
 
 ---
