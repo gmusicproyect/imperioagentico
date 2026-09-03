@@ -1,7 +1,7 @@
 # Clase 06 — MCP & Conectores
 
 **Tags:** `MCP` `Integraciones` `APIs`
-**Conecta con:** Clase 05 · Clase 07 · Bono GHL
+**Conecta con:** Clase 05 · Clase 07 · Bono GHL · Bono Higgsfield MCP
 
 ---
 

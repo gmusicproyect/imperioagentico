@@ -18,6 +18,7 @@ imperioagentico/
 │   ├── control-remoto/         → Servidor local 24/7 y acceso desde el celular
 │   ├── gestion-sesiones/       → 5 métodos de sesiones y persistencia
 │   ├── go-high-level/          → Integración Claude Code + GHL
+│   ├── higgsfield/             → Agencia creativa con IA (fotos, video, UGC)
 │   └── playwright/             → Automatización de browser
 ├── skills/                     → Skills reutilizables (.md)
 └── recursos/plantillas/        → CLAUDE.md global y por proyecto
@@ -27,7 +28,7 @@ imperioagentico/
 
 ## 🗺️ Módulos
 
-### Curso Claude Code — 19 clases
+### Curso Claude Code — 20 clases
 
 | # | Clase | Temas clave |
 |---|-------|-------------|
@@ -50,6 +51,7 @@ imperioagentico/
 | 17 | [Media Buyer en producción](./curso-claude-code/clases/clase-17-media-buyer-produccion.md) | Personalización por país, research de competencia |
 | 18 | [LLM Wiki con Obsidian](./curso-claude-code/clases/clase-18-llm-wiki-obsidian.md) | Memoria infinita sin RAG, Karpathy, 4 operaciones |
 | 19 | [Skills en producción](./curso-claude-code/clases/clase-19-skills-en-produccion.md) | Casos reales, meta-skills (Skill Creator) y MCPs |
+| 20 | [Masterclass de fundamentos](./curso-claude-code/clases/clase-20-fundamentos-en-vivo.md) | Chat vs Cowork vs Code, demo en vivo, /loop y Q&A |
 
 ### Bonos
 
@@ -60,6 +62,7 @@ imperioagentico/
 | [Control Remoto](./bonos/control-remoto/) | Tu computador completo en el celular (Mac Mini 24/7 + MCPs) |
 | [Gestión de Sesiones](./bonos/gestion-sesiones/) | 5 métodos de persistencia, recuperación y ramificación |
 | [Go High Level](./bonos/go-high-level/) | CRM completo desde terminal vía MCP |
+| [Higgsfield MCP](./bonos/higgsfield/) | Agencia creativa completa: fotos de producto, video cinematográfico, UGC y thumbnails |
 | [Playwright](./bonos/playwright/) | Automatización de browser sin API |
 
 ---
@@ -76,10 +79,10 @@ imperioagentico/
 ## 🔗 Conexiones entre módulos
 
 ```
-Clase 01 (Ecosistema) ──→ Bono Claude Design
+Clase 01 (Ecosistema) ──→ Bono Claude Design · Clase 20 (Masterclass de Fundamentos)
 Clase 04 (CLAUDE.md)  ──→ Clase 05 (Skills) ──→ Skills/
 Clase 05 (Skills)     ──→ Clase 19 (Skills en Producción)
-Clase 06 (MCP)        ──→ Bono GHL
+Clase 06 (MCP)        ──→ Bono GHL · Bono Higgsfield MCP
 Clase 07 (Browser)    ──→ Bono Playwright
 Clase 09 (Permisos)   ──→ Bono Control Remoto · Bono Gestión de Sesiones
 Clase 10 (Agentes)    ──→ Clase 14 (Media Buyer)
