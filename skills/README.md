@@ -28,6 +28,8 @@ Usa nombres descriptivos en kebab-case que indiquen **qué hace** el skill:
 
 | Skill | Descripción |
 |-------|-------------|
+| [mapear-conocimiento-graphify](./mapear-conocimiento-graphify/SKILL.md) | Construir grafos de conocimiento local con Tree-sitter y Leiden para ahorrar tokens (4.2x) |
+| [auditar-operacion-agentica](./auditar-operacion-agentica/SKILL.md) | Auditar consumo de tokens, ROI frente a APIs, salud de memoria y empaquetar skills con El Sueño |
 | [produccion-creativa-higgsfield](./produccion-creativa-higgsfield/SKILL.md) | Producir fotos de producto, video cinematográfico y UGC con Higgsfield MCP optimizando créditos |
 | [iniciar-proyecto-claude-code](./iniciar-proyecto-claude-code/SKILL.md) | Inicializar y estructurar proyectos en Claude Code con /init, CLAUDE.md conciso y calibración de modelo |
 | [crear-claude-skill](./crear-claude-skill/SKILL.md) | Diseñar, redactar y validar skills agénticos efectivos y modulares sin saturar contexto |

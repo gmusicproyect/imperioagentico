@@ -13,3 +13,5 @@ Módulos adicionales del curso Claude Code. Cada bono tiene su propia carpeta co
 | [Control Remoto](./control-remoto/) | Tu computador completo en el celular (Mac Mini 24/7 + MCPs) | Claude Code CLI · Remote Control · iOS / Android |
 | [Gestión de Sesiones](./gestion-sesiones/) | 5 métodos para persistir, retomar y estructurar sesiones | Claude Code CLI · Session ID · Fork SDK |
 | [Higgsfield MCP](./higgsfield/) | Agencia creativa completa: fotos de producto, video cinematográfico, UGC y thumbnails | Higgsfield MCP · GPT Image 2 · Kling 3.0 · Seedance 2.0 |
+| [Motor Agéntico](./motor-agentico/) | Dashboard local de ROI, control de tokens, salud de memoria y El Sueño | Bun · React · Vite · Transcripts locales |
+| [Graphify](./graphify/) | Mapeo de conocimiento local, grafo multimodal y reducción de tokens (4.2x) | Tree-sitter · faster-whisper · Leiden · Claude Code |

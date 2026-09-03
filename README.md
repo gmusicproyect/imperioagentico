@@ -18,7 +18,9 @@ imperioagentico/
 │   ├── control-remoto/         → Servidor local 24/7 y acceso desde el celular
 │   ├── gestion-sesiones/       → 5 métodos de sesiones y persistencia
 │   ├── go-high-level/          → Integración Claude Code + GHL
+│   ├── graphify/               → Mapeo de conocimiento y ahorro de tokens
 │   ├── higgsfield/             → Agencia creativa con IA (fotos, video, UGC)
+│   ├── motor-agentico/         → Dashboard local de ROI y control
 │   └── playwright/             → Automatización de browser
 ├── skills/                     → Skills reutilizables (.md)
 └── recursos/plantillas/        → CLAUDE.md global y por proyecto
@@ -62,7 +64,9 @@ imperioagentico/
 | [Control Remoto](./bonos/control-remoto/) | Tu computador completo en el celular (Mac Mini 24/7 + MCPs) |
 | [Gestión de Sesiones](./bonos/gestion-sesiones/) | 5 métodos de persistencia, recuperación y ramificación |
 | [Go High Level](./bonos/go-high-level/) | CRM completo desde terminal vía MCP |
+| [Graphify](./bonos/graphify/) | Mapeo de conocimiento local, grafo multimodal y reducción de tokens (4.2x) |
 | [Higgsfield MCP](./bonos/higgsfield/) | Agencia creativa completa: fotos de producto, video cinematográfico, UGC y thumbnails |
+| [Motor Agéntico](./bonos/motor-agentico/) | Dashboard local de ROI, control de tokens, salud de memoria y El Sueño |
 | [Playwright](./bonos/playwright/) | Automatización de browser sin API |
 
 ---
@@ -84,10 +88,11 @@ Clase 04 (CLAUDE.md)  ──→ Clase 05 (Skills) ──→ Skills/
 Clase 05 (Skills)     ──→ Clase 19 (Skills en Producción)
 Clase 06 (MCP)        ──→ Bono GHL · Bono Higgsfield MCP
 Clase 07 (Browser)    ──→ Bono Playwright
+Clase 08 (Tokens)     ──→ Bono Motor Agéntico
 Clase 09 (Permisos)   ──→ Bono Control Remoto · Bono Gestión de Sesiones
 Clase 10 (Agentes)    ──→ Clase 14 (Media Buyer)
 Clase 12 (Routines)   ──→ Bono Ads Cabrones IA
-Clase 13 (Obsidian)   ──→ Clase 18 (LLM Wiki)
+Clase 13 (Obsidian)   ──→ Clase 18 (LLM Wiki) · Bono Graphify
 ```
 
 ---

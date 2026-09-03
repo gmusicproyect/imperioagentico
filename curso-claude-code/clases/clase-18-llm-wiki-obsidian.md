@@ -1,7 +1,7 @@
 # Clase 18 — LLM Wiki con Obsidian: memoria infinita sin RAG
 
 **Tags:** `Obsidian` `LLM Wiki` `Memoria` `Karpathy`
-**Conecta con:** Clase 13 · Clase 04 · Clase 08
+**Conecta con:** Clase 13 · Clase 04 · Clase 08 · Bono Graphify
 
 ---
 
