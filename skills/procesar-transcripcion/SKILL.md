@@ -56,6 +56,8 @@ Al terminar, reportar en 1-2 líneas **cada archivo que se creó, modificó, mov
 
 **El reporte tiene que ser exhaustivo, sin excepción.** Si en el proceso se reestructuró, renombró o partió algo que ya existía (ej. dividir un bono en dos, mover un skill), eso también se reporta explícitamente — no solo lo que se creó desde cero. Antes de entregar el reporte, correr `git status` (o el equivalente) y verificar que cada línea de salida tenga su fila correspondiente en el reporte. Un archivo tocado que no aparece en el reporte es un fallo del skill, aunque el contenido en sí esté bien hecho.
 
+**El reporte de texto en el chat es un entregable obligatorio, no un extra.** Dejar los archivos correctos en el working tree no es suficiente por sí solo: la tarea no está completa hasta que el reporte fue efectivamente enviado como mensaje de chat. No des la tarea por terminada solo porque los archivos ya quedaron escritos en el repo.
+
 ---
 
 ## Outputs esperados
