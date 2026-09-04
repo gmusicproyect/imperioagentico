@@ -1,0 +1,23 @@
+CASOS DE USO — Constructor Funnel Ventas
+==================================================
+
+1. Vendedor high-ticket preparando call discovery con prospect C-level
+   Ejemplo: Situación empresarial donde esto es crítico
+
+2. Equipo de sales diseñando funnel para automatizar leads desde awareness
+   Ejemplo: Situación empresarial donde esto es crítico
+
+3. Founder creando landing page para lanzamiento de producto SaaS
+   Ejemplo: Situación empresarial donde esto es crítico
+
+4. Agencia ejecutando upsell a cliente existente por valor adicional
+   Ejemplo: Situación empresarial donde esto es crítico
+
+5. Coaching program reclutando clientes de lista de email segmentada
+   Ejemplo: Situación empresarial donde esto es crítico
+
+6. SaaS optimizando conversion rate del checkout para reducir cart abandonment
+   Ejemplo: Situación empresarial donde esto es crítico
+
+---
+Imperio Digital Skills Bundle

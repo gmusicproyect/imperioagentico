@@ -1,0 +1,23 @@
+CASOS DE USO — plantilla-factura
+=================================
+
+1. Un freelancer emite 10 facturas/mes manualmente; plantilla estandarizada con términos de pago claros.
+   Ejemplo: [situación real]
+
+2. Una agencia digital factura a 15 clientes con diferentes modelos; plantilla con variables acelera 80%.
+   Ejemplo: [situación real]
+
+3. Una SaaS B2B necesita facturas que cumplen con regulación fiscal por país.
+   Ejemplo: [situación real]
+
+4. Un coach que empieza necesita factura profesional para vender servicios de $5k.
+   Ejemplo: [situación real]
+
+5. Una consultora audita facturas pasadas; plantilla nueva asegura consistencia.
+   Ejemplo: [situación real]
+
+6. Una startup factura en USD a clientes pero reporta en EUR; plantilla incluye conversión.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

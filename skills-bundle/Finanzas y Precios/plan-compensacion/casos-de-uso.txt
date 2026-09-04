@@ -1,0 +1,23 @@
+CASOS DE USO — plan-de-compensacion
+====================================
+
+1. Un startup crea plan de compensación para empleados con salary + bonus.
+   Ejemplo: [situación real]
+
+2. Una empresa estructura compensación con base salary, comisión, y equity.
+   Ejemplo: [situación real]
+
+3. Un founder crea plan de compensacion que es competitivo vs. rivals.
+   Ejemplo: [situación real]
+
+4. Una agencia de servicios crea plan de compensación basado en billable hours.
+   Ejemplo: [situación real]
+
+5. Un equipo de RRHH crea benchmarks de compensación por rol.
+   Ejemplo: [situación real]
+
+6. Una startup de growth crea plan de compensación que retiene talento.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

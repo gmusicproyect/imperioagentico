@@ -1,0 +1,23 @@
+CASOS DE USO — Generador Descargos
+==================================================
+
+1. Empresa necesita responder oficialmente a reclamo de cliente insatisfecho
+   Ejemplo: Situación empresarial donde esto es crítico
+
+2. Empleado documentando acción correctiva formal ante incumplimiento de SLA
+   Ejemplo: Situación empresarial donde esto es crítico
+
+3. Abogado preparando respuesta legal a citatorio o demanda inicial
+   Ejemplo: Situación empresarial donde esto es crítico
+
+4. Manager registrando decisión disciplinaria para expediente de empleado
+   Ejemplo: Situación empresarial donde esto es crítico
+
+5. Organización protegiendo derechos ante infracción de contrato o propiedad intelectual
+   Ejemplo: Situación empresarial donde esto es crítico
+
+6. Profesional dejando constancia escrita de defensa en proceso legal
+   Ejemplo: Situación empresarial donde esto es crítico
+
+---
+Imperio Digital Skills Bundle

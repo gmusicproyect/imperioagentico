@@ -1,0 +1,23 @@
+CASOS DE USO — flujo-incorporacion-saas
+========================================
+
+1. Una SaaS B2B crea flujo de onboarding estructurado; 60% de nuevos usuarios activos después de 14 días.
+   Ejemplo: [situación real]
+
+2. Un ecommerce crea flujo de onboarding que guía nuevos clientes a primer compra.
+   Ejemplo: [situación real]
+
+3. Una agencia de marketing crea onboarding para clientes nuevos con expectativas claras.
+   Ejemplo: [situación real]
+
+4. Un SaaS de analytics crea flujo de onboarding de 7 pasos; completion rate 85%.
+   Ejemplo: [situación real]
+
+5. Un founder de plataforma de educación crea onboarding de instructores que reduce tiempo a first course en 50%.
+   Ejemplo: [situación real]
+
+6. Una startup de fintech diseña onboarding que cumple con KYC en menos de 5 minutos.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

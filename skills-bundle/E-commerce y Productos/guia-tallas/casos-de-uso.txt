@@ -1,0 +1,19 @@
+CASOS DE USO — Guia Tallas
+================================
+
+1. Un vendedor de Shopify optimiza todas sus descripciones de producto usando esta skill.
+   Ejemplo: Situación específica del uso
+
+2. Un brand lanza 50 productos nuevos y usa esta skill para escribir descripciones convertidoras.
+   Ejemplo: Situación específica del uso
+
+3. Un marketplace necesita describir inventario diverso usando esta skill para consistencia.
+
+4. Un negocio de dropshipping mejora tasas de conversión optimizando descripciones con esta skill.
+
+5. Una plataforma de venta B2B usa esta skill para comunicar especificaciones técnicas claramente.
+
+6. Un ecommerce implementa esta skill para A/B testing diferentes enfoques de copywriting.
+
+---
+Imperio Digital Skills Bundle

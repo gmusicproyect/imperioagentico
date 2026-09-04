@@ -1,0 +1,23 @@
+CASOS DE USO — centro-ayuda-plataforma
+=======================================
+
+1. Un SaaS crea help center con FAQs para reducir support tickets.
+   Ejemplo: [situación real]
+
+2. Una plataforma de educación crea help center para estudiantes y profesores.
+   Ejemplo: [situación real]
+
+3. Un startup de marketplace crea help center para buyers y sellers.
+   Ejemplo: [situación real]
+
+4. Una agencia de servicios crea help center para que clientes se autoservan.
+   Ejemplo: [situación real]
+
+5. Un founder de fintech crea help center con respuestas multiidioma.
+   Ejemplo: [situación real]
+
+6. Una empresa de software crea help center que reduce tickets 40%.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

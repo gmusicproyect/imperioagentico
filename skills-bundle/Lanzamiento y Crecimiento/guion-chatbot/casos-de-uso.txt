@@ -1,0 +1,23 @@
+CASOS DE USO — guion-chatbot
+=============================
+
+1. Una empresa de SaaS crea script de chatbot para responder preguntas de soporte más comunes.
+   Ejemplo: [situación real]
+
+2. Un startup de e-commerce usa chatbot script para lead qualification.
+   Ejemplo: [situación real]
+
+3. Una agencia de marketing crea guion de chatbot que califica leads antes de pasar a sales.
+   Ejemplo: [situación real]
+
+4. Un founder de SaaS diseña chatbot para reducir support tickets en 40%.
+   Ejemplo: [situación real]
+
+5. Una empresa de educación crea chatbot para responder preguntas de estudiantes 24/7.
+   Ejemplo: [situación real]
+
+6. Un startup implementa chatbot que responde 80% de preguntas sin intervención humana.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

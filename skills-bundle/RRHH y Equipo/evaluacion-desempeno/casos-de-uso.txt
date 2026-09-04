@@ -1,0 +1,23 @@
+CASOS DE USO — evaluacion-desempeno
+====================================
+
+1. Un equipo de 15 personas requiere framework estandarizado de evaluación.
+   Ejemplo: [situación real]
+
+2. Una empresa realiza ajustes salariales basados en evaluación; necesita criterios claros.
+   Ejemplo: [situación real]
+
+3. Un manager da feedback inconsistente; framework estandarizado asegura fairness.
+   Ejemplo: [situación real]
+
+4. Una startup prepara ronda de funding; inversores quieren ver evaluación formal.
+   Ejemplo: [situación real]
+
+5. Un equipo remoto usa evaluaciones para asegurar que performance se basa en output.
+   Ejemplo: [situación real]
+
+6. Una empresa con favoritismo implementa framework objetivo de evaluación.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

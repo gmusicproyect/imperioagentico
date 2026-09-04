@@ -1,0 +1,23 @@
+CASOS DE USO — plataforma-evento-virtual
+=========================================
+
+1. Una empresa pequeña implementa plataforma-evento-virtual para estandarizar procesos.
+   Ejemplo: [situación real]
+
+2. Un equipo crece rápidamente; plataforma-evento-virtual asegura consistencia.
+   Ejemplo: [situación real]
+
+3. Una startup que levanta funding necesita demostrar procesos formales.
+   Ejemplo: [situación real]
+
+4. Un líder que hereda equipo desorganizado usa plataforma-evento-virtual para crear orden.
+   Ejemplo: [situación real]
+
+5. Una empresa con rotación alta implementa plataforma-evento-virtual para mejorar retención.
+   Ejemplo: [situación real]
+
+6. Un emprendedor que crece usa plataforma-evento-virtual para escalar sin perder control.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

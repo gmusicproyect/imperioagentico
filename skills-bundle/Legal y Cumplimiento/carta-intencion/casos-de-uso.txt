@@ -1,0 +1,23 @@
+CASOS DE USO — Carta Intencion
+==================================================
+
+1. Freelancer necesita documentar términos con cliente nuevo para evitar malentendidos sobre alcance
+   Ejemplo: Situación empresarial donde esto es crítico
+
+2. Consultor debe formalizar un proyecto antes de comenzar trabajo para proteger intereses
+   Ejemplo: Situación empresarial donde esto es crítico
+
+3. Agencia firmando retención con cliente corporativo para garantizar pago y exclusividad
+   Ejemplo: Situación empresarial donde esto es crítico
+
+4. Empresa pequeña contratando subcontratista y necesita documento legal claro
+   Ejemplo: Situación empresarial donde esto es crítico
+
+5. Startup estableciendo términos con socio inversionista antes de recibir fondos
+   Ejemplo: Situación empresarial donde esto es crítico
+
+6. Profesional independiente protegiéndose de scope creep con nuevo cliente de alto valor
+   Ejemplo: Situación empresarial donde esto es crítico
+
+---
+Imperio Digital Skills Bundle

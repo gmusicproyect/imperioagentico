@@ -1,0 +1,23 @@
+CASOS DE USO — informe-anual
+=============================
+
+1. Un startup de SaaS crea informe anual de progreso para board e inversores.
+   Ejemplo: [situación real]
+
+2. Una empresa de educación documenta impacto anual en su annual report.
+   Ejemplo: [situación real]
+
+3. Un founder de fintech prepara informe anual que muestra métricas de crecimiento.
+   Ejemplo: [situación real]
+
+4. Una agencia de marketing crea informe anual de resultados para cliente.
+   Ejemplo: [situación real]
+
+5. Un equipo de growth crea informe anual que documenta KPIs y lecciones aprendidas.
+   Ejemplo: [situación real]
+
+6. Un startup prepara informe anual para transparencia con stakeholders.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

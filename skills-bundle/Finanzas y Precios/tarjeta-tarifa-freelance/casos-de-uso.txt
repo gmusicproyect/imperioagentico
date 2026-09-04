@@ -1,0 +1,23 @@
+CASOS DE USO — tarjeta-tarifa-freelance
+========================================
+
+1. Un freelancer en Argentina factura a cliente en USA; tarjeta documenta rates.
+   Ejemplo: [situación real]
+
+2. Una agencia de diseño tiene 4 diseñadores con diferentes tasas.
+   Ejemplo: [situación real]
+
+3. Un consultor de marketing tiene tarifa para consulting, retainer, training.
+   Ejemplo: [situación real]
+
+4. Un contractor que trabaja con 10 clientes revisa tarjetas.
+   Ejemplo: [situación real]
+
+5. Un equipo de copywriting comparte tarjeta de tarifa interna.
+   Ejemplo: [situación real]
+
+6. Un freelancer crea tarjeta que refleja su experiencia senior.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

@@ -1,0 +1,19 @@
+CASOS DE USO — Campana Recuperacion Cliente
+================================
+
+1. Un profesional implementa esta skill como parte de workflow nuevo.
+   Ejemplo: Situación específica del uso
+
+2. Un equipo adopta esta skill para mejorar calidad y consistencia de output.
+   Ejemplo: Situación específica del uso
+
+3. Un negocio escala operaciones usando esta skill para automatizar proceso manual.
+
+4. Un consultor integra esta skill en servicios ofrecidos a clientes.
+
+5. Una organización capacita team en esta skill como parte de transformación.
+
+6. Un creador independiente usa esta skill para aumentar productividad.
+
+---
+Imperio Digital Skills Bundle

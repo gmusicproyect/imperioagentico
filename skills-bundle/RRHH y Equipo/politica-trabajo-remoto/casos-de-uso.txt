@@ -1,0 +1,23 @@
+CASOS DE USO — politica-trabajo-remoto
+=======================================
+
+1. Una empresa cambia a remoto full time; política documenta horarios, herramientas, expectations.
+   Ejemplo: [situación real]
+
+2. Un startup híbrido necesita política que balance oficina con remoto.
+   Ejemplo: [situación real]
+
+3. Una empresa con equipos distribuidos define policy para reuniones sincronizadas.
+   Ejemplo: [situación real]
+
+4. Un líder de equipo remoto necesita política sobre home office allowance, internet stipend.
+   Ejemplo: [situación real]
+
+5. Una empresa recluta globalmente; política de trabajo remoto atrae talento.
+   Ejemplo: [situación real]
+
+6. Un startup en crisis de productivity implementa política con métricas e interacciones.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

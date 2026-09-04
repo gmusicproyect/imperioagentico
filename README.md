@@ -24,7 +24,8 @@ imperioagentico/
 │   ├── meta-ads/               → Agente Ad Manager con Meta API (Matías)
 │   ├── motor-agentico/         → Dashboard local de ROI y control
 │   └── playwright/             → Automatización de browser
-├── skills/                     → Skills reutilizables (.md)
+├── skills/                     → Skills reutilizables extraídos del curso (.md)
+├── skills-bundle/              → 503 skills listos para usar de Imperio Digital (20 categorías)
 └── recursos/plantillas/        → CLAUDE.md global y por proyecto
 ```
 
@@ -74,6 +75,10 @@ imperioagentico/
 | [Motor Agéntico](./bonos/motor-agentico/) | Dashboard local de ROI, control de tokens, salud de memoria y El Sueño |
 | [Playwright](./bonos/playwright/) | Automatización de browser sin API |
 
+### Skills Bundle
+
+[Imperio Digital Skills Bundle](./skills-bundle/) — 503 skills listos para usar en 20 categorías (Ads, Contenido, Email, Ventas, SEO, Legal, RRHH, y más). Catálogo externo, no pasa por el flujo de transcripción del curso — ver su propio [README](./skills-bundle/README.md) para el detalle y cómo se diferencia de `/skills/`.
+
 ---
 
 ## ⚡ Inicio rápido
@@ -82,6 +87,7 @@ imperioagentico/
 2. Navega a la clase que necesites en `curso-claude-code/clases/`
 3. Usa las plantillas de `recursos/plantillas/` para nuevos proyectos
 4. Copia los skills de `skills/` directamente a tu carpeta de Claude Code
+5. Explora `skills-bundle/` para skills listos por categoría de negocio
 
 ---
 

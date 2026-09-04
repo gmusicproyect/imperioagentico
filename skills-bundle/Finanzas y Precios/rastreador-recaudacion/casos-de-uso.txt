@@ -1,0 +1,23 @@
+CASOS DE USO — rastreador-recaudacion
+======================================
+
+1. Un startup de SaaS rastrea qué clientes han pagado invoice.
+   Ejemplo: [situación real]
+
+2. Una agencia de servicios rastrea recaudación mes a mes.
+   Ejemplo: [situación real]
+
+3. Un founder rastrea pagos pendientes para saber cuánto cash viene.
+   Ejemplo: [situación real]
+
+4. Una empresa de educación rastrea pagos de estudiantes.
+   Ejemplo: [situación real]
+
+5. Un equipo de finanzas rastrea aging of receivables.
+   Ejemplo: [situación real]
+
+6. Una startup rastrea recaudación para forecasting de cash flow.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

@@ -1,0 +1,23 @@
+CASOS DE USO — manual-capacitacion
+===================================
+
+1. Un startup crea manual de capacitación para onboardear ingenieros nuevos.
+   Ejemplo: [situación real]
+
+2. Una empresa de SaaS documenta curriculum de capacitación en manual.
+   Ejemplo: [situación real]
+
+3. Un equipo de customer service crea manual de capacitación con roleplay scenarios.
+   Ejemplo: [situación real]
+
+4. Una agencia de marketing crea manual de capacitación en proceso de cliente.
+   Ejemplo: [situación real]
+
+5. Un startup de educación crea manual de capacitación para profesores.
+   Ejemplo: [situación real]
+
+6. Una empresa de tech crea manual de capacitación sobre tools internas y procesos.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

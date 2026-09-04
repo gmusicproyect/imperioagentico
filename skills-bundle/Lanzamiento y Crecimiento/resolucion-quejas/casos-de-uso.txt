@@ -1,0 +1,23 @@
+CASOS DE USO — resolucion-quejas
+=================================
+
+1. Una empresa de SaaS crea proceso estándar de resolución de quejas de clientes.
+   Ejemplo: [situación real]
+
+2. Un startup de educación crea protocolo de resolución de quejas de estudiantes.
+   Ejemplo: [situación real]
+
+3. Una agencia de servicios crea escalación clara para resolución de quejas.
+   Ejemplo: [situación real]
+
+4. Un founder de marketplace crea sistema de resolución de disputas entre buyers y sellers.
+   Ejemplo: [situación real]
+
+5. Una startup de fintech implementa resolución de quejas que cumple con regulación.
+   Ejemplo: [situación real]
+
+6. Una empresa de e-commerce crea proceso de resolución de quejas que reinventa customer.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

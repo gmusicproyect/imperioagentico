@@ -1,0 +1,23 @@
+CASOS DE USO — Reporte P&L
+=============================
+
+1. Un founder cierra libro de año 1; P&L muestra que alcanzó 80% de revenue proyectada.
+   Ejemplo: [situación real]
+
+2. Un startup en serie A prepara board meeting; P&L detallado muestra unit economics.
+   Ejemplo: [situación real]
+
+3. Un CFO nuevo llega y ve que P&L anterior tenía errores.
+   Ejemplo: [situación real]
+
+4. Una empresa que se prepara para IPO tiene P&L mensual automatizado.
+   Ejemplo: [situación real]
+
+5. Un founder divide empresa en 3 unidades; P&L separado por unidad.
+   Ejemplo: [situación real]
+
+6. Un equipo de finanzas audita P&L histórico; descubre discrepancias.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

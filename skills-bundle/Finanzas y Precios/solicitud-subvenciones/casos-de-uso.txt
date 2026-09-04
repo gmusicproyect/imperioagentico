@@ -1,0 +1,23 @@
+CASOS DE USO — solicitud-subvenciones
+======================================
+
+1. Un startup deep-tech con 6 meses runway solicita grant de gobierno.
+   Ejemplo: [situación real]
+
+2. Un founder prepara 10 solicitudes de subvención pequeña ($10k-$50k).
+   Ejemplo: [situación real]
+
+3. Una empresa social impact solicita grant de fundación.
+   Ejemplo: [situación real]
+
+4. Un researcher académico que quiere commercializar invención solicita innovation grant.
+   Ejemplo: [situación real]
+
+5. Un emprendedor inmigrante califica para programa de subvención.
+   Ejemplo: [situación real]
+
+6. Una startup de educación busca grants para escuelas.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

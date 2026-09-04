@@ -1,0 +1,23 @@
+CASOS DE USO — rastreador-gastos
+=================================
+
+1. Un emprendedor solo monitorea gastos mensuales; crece a equipo de 3 y necesita categorizar por proyecto.
+   Ejemplo: [situación real]
+
+2. Una agencia de marketing con 5 freelancers usa rastreador para identificar dónde va 40% del presupuesto.
+   Ejemplo: [situación real]
+
+3. Una startup de hardware necesita rastrear gastos de desarrollo, manufactura y marketing separadamente.
+   Ejemplo: [situación real]
+
+4. Un equipo de ventas viaja constantemente; rastreador centralizado reemplaza reembolsos caóticos.
+   Ejemplo: [situación real]
+
+5. Una empresa con múltiples proyectos usa rastreador para asignar gastos a cada proyecto.
+   Ejemplo: [situación real]
+
+6. Un founder audita gastos anuales; rastreador revela que $50k/año se gastan en herramientas no usadas.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

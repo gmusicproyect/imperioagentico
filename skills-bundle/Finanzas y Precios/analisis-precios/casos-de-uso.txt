@@ -1,0 +1,23 @@
+CASOS DE USO — analisis-precios
+================================
+
+1. Un SaaS con 200 usuarios tiene pricing fijo; análisis revela que 40% pagan por features que no usan.
+   Ejemplo: [situación real]
+
+2. Una agencia de tech cobra por proyecto; necesita framework para evaluar si precios son competitivos.
+   Ejemplo: [situación real]
+
+3. Un coach digital lanza tier de 'high ticket' de $10k; análisis de precios optimiza conversión.
+   Ejemplo: [situación real]
+
+4. Un marketplace necesita revisar comisión a proveedores; análisis asegura sostenibilidad.
+   Ejemplo: [situación real]
+
+5. Una consultora que factura por hora considera pasar a valor fijo; análisis muestra ROI.
+   Ejemplo: [situación real]
+
+6. Un SaaS en serie A precisa si subir precios 20%; análisis muestra impacto.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

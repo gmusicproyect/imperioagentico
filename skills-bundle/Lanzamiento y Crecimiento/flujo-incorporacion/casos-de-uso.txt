@@ -1,0 +1,23 @@
+CASOS DE USO — flujo-incorporacion
+===================================
+
+1. Una SaaS crea flujo de onboarding de nuevos usuarios.
+   Ejemplo: [situación real]
+
+2. Un startup de educación crea flujo de incorporación para estudiantes nuevos.
+   Ejemplo: [situación real]
+
+3. Una plataforma de SaaS optimiza onboarding flow; aumenta activation en 40%.
+   Ejemplo: [situación real]
+
+4. Un founder de marketplace crea flujo de onboarding para sellers.
+   Ejemplo: [situación real]
+
+5. Una empresa de software crea tutorial interactivo como parte del flujo de onboarding.
+   Ejemplo: [situación real]
+
+6. Un startup de fintech diseña onboarding de nuevas cuentas con verification de identidad.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

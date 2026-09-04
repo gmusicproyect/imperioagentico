@@ -1,0 +1,23 @@
+CASOS DE USO — carta-oferta
+============================
+
+1. Un founder crea carta de oferta formal para primer hire.
+   Ejemplo: [situación real]
+
+2. Una empresa documenta términos de empleo en carta de oferta.
+   Ejemplo: [situación real]
+
+3. Un HR ejecutivo crea plantilla de carta de oferta.
+   Ejemplo: [situación real]
+
+4. Un startup de scaling usa carta estándar de oferta para efficiency.
+   Ejemplo: [situación real]
+
+5. Una empresa asegura legal compliance con carta de oferta documentada.
+   Ejemplo: [situación real]
+
+6. Un founder personaliza carta de oferta según seniority del candidato.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

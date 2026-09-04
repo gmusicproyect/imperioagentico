@@ -1,0 +1,23 @@
+CASOS DE USO — evaluacion-saas
+===============================
+
+1. Un CTO evalúa 3 herramientas de SaaS para elegir cuál comprar.
+   Ejemplo: [situación real]
+
+2. Una empresa de 50 personas evalúa SaaS alternatives antes de renovar contrato.
+   Ejemplo: [situación real]
+
+3. Un founder crea matriz de evaluación de SaaS por caso de uso.
+   Ejemplo: [situación real]
+
+4. Una consultora de tech crea evaluación de SaaS para cliente.
+   Ejemplo: [situación real]
+
+5. Un equipo de ops evalúa SaaS para reemplazar herramienta actual.
+   Ejemplo: [situación real]
+
+6. Una startup de tech hace evaluación de SaaS comparando costo vs features.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

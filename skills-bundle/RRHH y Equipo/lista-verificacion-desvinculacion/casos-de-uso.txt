@@ -1,0 +1,23 @@
+CASOS DE USO — lista-verificacion-desvinculacion
+=================================================
+
+1. Un empleado renuncia; checklist asegura recuperar accesos, equipos, documentación.
+   Ejemplo: [situación real]
+
+2. Una empresa tiene problema de ex-empleados con acceso; checklist formaliza.
+   Ejemplo: [situación real]
+
+3. Un startup despide a alguien; checklist legal evita litigios.
+   Ejemplo: [situación real]
+
+4. Un equipo remoto se asegura de recuperar laptop, documentos, credenciales.
+   Ejemplo: [situación real]
+
+5. Una empresa con compliance estricto necesita paper trail de offboarding.
+   Ejemplo: [situación real]
+
+6. Un empleado temporal termina contrato; checklist rápido de 30 minutos.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

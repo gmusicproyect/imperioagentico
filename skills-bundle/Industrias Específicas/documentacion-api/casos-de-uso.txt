@@ -1,0 +1,23 @@
+CASOS DE USO — documentacion-api
+=================================
+
+1. Una startup de SaaS crea documentación de API para que developers integren.
+   Ejemplo: [situación real]
+
+2. Un founder de herramienta no-code crea documentación de API completa.
+   Ejemplo: [situación real]
+
+3. Una plataforma de SaaS documenta API con ejemplos de código.
+   Ejemplo: [situación real]
+
+4. Un CTO de empresa de software crea documentación de API para partners.
+   Ejemplo: [situación real]
+
+5. Una startup de FinTech crea documentación de API que es estándar en industria.
+   Ejemplo: [situación real]
+
+6. Una empresa de tech documenta API con SDK en múltiples lenguajes.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

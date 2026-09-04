@@ -1,0 +1,23 @@
+CASOS DE USO — asociacion-plataforma
+=====================================
+
+1. Un SaaS define términos de asociación con partners.
+   Ejemplo: [situación real]
+
+2. Una plataforma de marketplace documenta términos de asociación con vendors.
+   Ejemplo: [situación real]
+
+3. Un startup crea documento de asociación con distribuidores.
+   Ejemplo: [situación real]
+
+4. Una empresa de SaaS establece términos de API partnership.
+   Ejemplo: [situación real]
+
+5. Un founder de plataforma crea acuerdo de asociación con complementarios.
+   Ejemplo: [situación real]
+
+6. Una startup de fintech define términos de asociación con bancos.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

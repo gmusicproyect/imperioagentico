@@ -1,0 +1,19 @@
+CASOS DE USO — Estrategia Email Bilateral
+================================
+
+1. Un ecommerce implementa esta skill para automatizar email de bienvenida a nuevos subscribers.
+   Ejemplo: Situación específica del uso
+
+2. Una agencia configura workflow de email para nutrir leads a través de multiple touchpoints.
+   Ejemplo: Situación específica del uso
+
+3. Un creator construye secuencia de email que educate su audiencia sobre topic clave.
+
+4. Un negocio de servicios automatiza follow-up emails post-consulta inicial.
+
+5. Una plataforma SaaS implementa email sequence basado en user behavior dentro de la aplicación.
+
+6. Un consultor usa esta skill para crear campaña de re-engagement dirigida a clientes inactivos.
+
+---
+Imperio Digital Skills Bundle

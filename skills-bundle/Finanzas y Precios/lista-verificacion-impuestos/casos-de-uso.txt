@@ -1,0 +1,23 @@
+CASOS DE USO — lista-verificacion-impuestos
+============================================
+
+1. Un freelancer gana $150k/año; usa lista para capturar todas deducciones.
+   Ejemplo: [situación real]
+
+2. Una startup de 5 personas prepara auditoría IRS; checklist de documentación.
+   Ejemplo: [situación real]
+
+3. Un founder entiende que puede deducir home office, internet, membresías.
+   Ejemplo: [situación real]
+
+4. Una agencia con múltiples clientes de países diferentes necesita compliance checklist.
+   Ejemplo: [situación real]
+
+5. Un negocio de e-commerce crece a $500k/año; lista identifica sales tax obligation.
+   Ejemplo: [situación real]
+
+6. Un consultor se da cuenta que ha perdido $20k/año en deducciones.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

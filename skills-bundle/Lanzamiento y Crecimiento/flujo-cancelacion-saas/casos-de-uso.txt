@@ -1,0 +1,23 @@
+CASOS DE USO — flujo-cancelacion-saas
+======================================
+
+1. Un SaaS crea flujo de cancelación que intenta retain con offer; 30% de usuarios que cancelen quedan.
+   Ejemplo: [situación real]
+
+2. Una empresa de subscription crea exit survey en cancelación; datos guían mejoras de producto.
+   Ejemplo: [situación real]
+
+3. Un founder de SaaS realiza análisis de cancelación; descubre que usuarios inactivos por 30 días nunca vuelven.
+   Ejemplo: [situación real]
+
+4. Una plataforma de streaming crea opciones de pause vs cancel; retention mejora 20%.
+   Ejemplo: [situación real]
+
+5. Un SaaS de analytics crea flujo de cancelación que propone downgrade; 40% downgradean vs cancel.
+   Ejemplo: [situación real]
+
+6. Un startup crea exit survey que revela que 60% se va por falta de features específicas.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

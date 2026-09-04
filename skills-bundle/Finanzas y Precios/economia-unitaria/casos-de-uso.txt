@@ -1,0 +1,23 @@
+CASOS DE USO — economia-unitaria
+=================================
+
+1. Un SaaS calcula: CAC = $5k, LTV = $50k, payback = 8 meses. Decide escalar.
+   Ejemplo: [situación real]
+
+2. Un ecommerce analiza: COGS = 40%, shipping = 15%, ads = 20%, fulfillment = 10%. Margen neto = 15%.
+   Ejemplo: [situación real]
+
+3. Un marketplace descubre que mientras crece, unit economics deterioran.
+   Ejemplo: [situación real]
+
+4. Un founder de agencia calcula que servicio A tiene margen 50% pero B tiene 20%.
+   Ejemplo: [situación real]
+
+5. Una empresa de educación online calcula: curso cuesta $5k to produce, vende por $500.
+   Ejemplo: [situación real]
+
+6. Un SaaS descubre que retention metrics son claves para unit economics.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

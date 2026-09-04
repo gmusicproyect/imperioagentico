@@ -1,0 +1,23 @@
+CASOS DE USO — metricas-suscripcion
+====================================
+
+1. Una SaaS de B2B implementa dashboard de métricas: MRR, churn, LTV, CAC.
+   Ejemplo: [situación real]
+
+2. Un marketplace monitorea daily: GMV, número de transacciones, conversion rates.
+   Ejemplo: [situación real]
+
+3. Un ecommerce tiene 20 KPIs; dashboard reduce a 5 que realmente importan.
+   Ejemplo: [situación real]
+
+4. Un CEO de SaaS revisa dashboard cada mañana; identifica anomalías.
+   Ejemplo: [situación real]
+
+5. Una startup de fintech usa dashboard para demostrar progress a board.
+   Ejemplo: [situación real]
+
+6. Un team de growth crea dashboard que sincroniza con goals de empresa.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

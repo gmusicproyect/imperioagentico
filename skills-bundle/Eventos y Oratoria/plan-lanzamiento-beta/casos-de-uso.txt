@@ -1,0 +1,23 @@
+CASOS DE USO — plan-lanzamiento-beta
+=====================================
+
+1. Una empresa pequeña implementa plan-lanzamiento-beta para estandarizar procesos.
+   Ejemplo: [situación real]
+
+2. Un equipo crece rápidamente; plan-lanzamiento-beta asegura consistencia.
+   Ejemplo: [situación real]
+
+3. Una startup que levanta funding necesita demostrar procesos formales.
+   Ejemplo: [situación real]
+
+4. Un líder que hereda equipo desorganizado usa plan-lanzamiento-beta para crear orden.
+   Ejemplo: [situación real]
+
+5. Una empresa con rotación alta implementa plan-lanzamiento-beta para mejorar retención.
+   Ejemplo: [situación real]
+
+6. Un emprendedor que crece usa plan-lanzamiento-beta para escalar sin perder control.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

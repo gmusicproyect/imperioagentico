@@ -1,0 +1,23 @@
+CASOS DE USO — plan-marketing-restaurante
+==========================================
+
+1. Un restaurante nuevo crea plan de marketing para primeros 6 meses.
+   Ejemplo: [situación real]
+
+2. Una cadena de restaurantes crea plan de marketing anual.
+   Ejemplo: [situación real]
+
+3. Un founder de ghost kitchen crea plan de marketing digital.
+   Ejemplo: [situación real]
+
+4. Un restaurante de comida rápida crea plan de marketing por temporada.
+   Ejemplo: [situación real]
+
+5. Una agencia de F&B crea plan de marketing para cliente restaurante.
+   Ejemplo: [situación real]
+
+6. Un chef que abre restaurante crea plan de marketing con influencers.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

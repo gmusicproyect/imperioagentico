@@ -1,0 +1,23 @@
+CASOS DE USO — pronostico-flujo-caja
+=====================================
+
+1. Un startup de hardware gasta $100k antes de primer ingreso; proyección muestra 9 meses runway.
+   Ejemplo: [situación real]
+
+2. Una SaaS con churn del 5% mensual necesita proyectar cuándo llega a breakeven.
+   Ejemplo: [situación real]
+
+3. Un negocio de servicios con clientes estacionales usa proyección para línea de crédito.
+   Ejemplo: [situación real]
+
+4. Un founder levanta $500k; proyección de cash flow es primer documento que pide inversor.
+   Ejemplo: [situación real]
+
+5. Una empresa necesita saber si puede pausar fundraising en M6.
+   Ejemplo: [situación real]
+
+6. Un CEO de SaaS cambia modelo de billing; proyección muestra impacto.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

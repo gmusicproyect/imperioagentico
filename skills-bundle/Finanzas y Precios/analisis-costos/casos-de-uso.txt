@@ -1,0 +1,23 @@
+CASOS DE USO — Análisis de Costos (COGS)
+===============================
+
+1. Una empresa pequeña implementa analisis-costos para estandarizar procesos.
+   Ejemplo: [situación real]
+
+2. Un equipo crece rápidamente; analisis-costos asegura consistencia.
+   Ejemplo: [situación real]
+
+3. Una startup que levanta funding necesita demostrar procesos formales.
+   Ejemplo: [situación real]
+
+4. Un líder que hereda equipo desorganizado usa analisis-costos para crear orden.
+   Ejemplo: [situación real]
+
+5. Una empresa con rotación alta implementa analisis-costos para mejorar retención.
+   Ejemplo: [situación real]
+
+6. Un emprendedor que crece usa analisis-costos para escalar sin perder control.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

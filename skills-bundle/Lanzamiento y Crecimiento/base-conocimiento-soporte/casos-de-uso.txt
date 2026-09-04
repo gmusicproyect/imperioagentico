@@ -1,0 +1,23 @@
+CASOS DE USO — base-conocimiento-soporte
+=========================================
+
+1. Un SaaS crea base de conocimiento de soporte con 200+ artículos; reduce tickets 30%.
+   Ejemplo: [situación real]
+
+2. Una agencia de marketing crea knowledge base para que clientes se autoservan.
+   Ejemplo: [situación real]
+
+3. Un startup de educación crea knowledge base para estudiantes y profesores.
+   Ejemplo: [situación real]
+
+4. Una empresa de software documenta soluciones comunes en knowledge base.
+   Ejemplo: [situación real]
+
+5. Un founder de SaaS invierte en knowledge base que reduce carga de soporte 50%.
+   Ejemplo: [situación real]
+
+6. Una plataforma de fintech crea knowledge base multiidioma de respuestas frecuentes.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

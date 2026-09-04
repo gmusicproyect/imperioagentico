@@ -1,0 +1,23 @@
+CASOS DE USO — encuesta-satisfaccion
+=====================================
+
+1. Una empresa de SaaS hace encuesta trimestral de satisfacción a clientes.
+   Ejemplo: [situación real]
+
+2. Un startup de educación crea encuesta post-curso; 80% response rate ayuda a mejorar curriculum.
+   Ejemplo: [situación real]
+
+3. Una agencia de servicios usa encuesta para medir customer satisfaction score.
+   Ejemplo: [situación real]
+
+4. Un founder crea encuesta de satisfacción de empleados; identifica que 40% consideran irse.
+   Ejemplo: [situación real]
+
+5. Una startup de e-commerce usa encuesta para recopilar feedback post-compra.
+   Ejemplo: [situación real]
+
+6. Un equipo de producto crea encuesta de satisfacción para validar cambios recientes.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

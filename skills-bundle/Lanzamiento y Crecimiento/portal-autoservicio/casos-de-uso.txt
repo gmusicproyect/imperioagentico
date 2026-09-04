@@ -1,0 +1,23 @@
+CASOS DE USO — portal-autoservicio
+===================================
+
+1. Un SaaS crea portal de autoservicio que reduce support tickets.
+   Ejemplo: [situación real]
+
+2. Una empresa de subscription crea portal donde clientes se auto-sirven.
+   Ejemplo: [situación real]
+
+3. Un startup crea knowledge base con autoservicio portal.
+   Ejemplo: [situación real]
+
+4. Una agencia de servicios implementa portal de autoservicio para clientes.
+   Ejemplo: [situación real]
+
+5. Un founder de SaaS crea portal que deja clientes manejar tareas comunes.
+   Ejemplo: [situación real]
+
+6. Una plataforma de educación crea portal donde estudiantes acceden recursos.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

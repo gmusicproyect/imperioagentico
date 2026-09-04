@@ -1,0 +1,23 @@
+CASOS DE USO — revision-trimestral
+===================================
+
+1. Un CEO de SaaS hace review trimestral de métricas clave.
+   Ejemplo: [situación real]
+
+2. Un founder de marketplace hace review de balance supply/demand.
+   Ejemplo: [situación real]
+
+3. Una startup de fintech revisa progreso vs plan trimestral.
+   Ejemplo: [situación real]
+
+4. Un VP de Growth usa revisión para reafirmar o pivotear estrategia.
+   Ejemplo: [situación real]
+
+5. Un equipo de operaciones usa revisión para identificar procesos lentos.
+   Ejemplo: [situación real]
+
+6. Un board de startup revisa resultados trimestrales.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

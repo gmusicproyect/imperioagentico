@@ -1,0 +1,23 @@
+CASOS DE USO — oferta-empleo
+=============================
+
+1. Un startup hace primera oferta formal; plantilla profesional comunica expectativas.
+   Ejemplo: [situación real]
+
+2. Un founder que hacía hiring ad-hoc necesita template para consistency.
+   Ejemplo: [situación real]
+
+3. Una empresa multicultural customiza ofertas con beneficios locales por país.
+   Ejemplo: [situación real]
+
+4. Un recruiter gestiona 10 ofertas abiertas; template acelera redacción.
+   Ejemplo: [situación real]
+
+5. Una empresa con alta demanda de talento usa template para responder rápido.
+   Ejemplo: [situación real]
+
+6. Un equipo de RRHH estandariza ofertas para evitar discrepancias.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

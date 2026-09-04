@@ -1,0 +1,23 @@
+CASOS DE USO — checklist-desvinculacion
+========================================
+
+1. Un empleado renuncia; checklist rápido de offboarding de 30 minutos.
+   Ejemplo: [situación real]
+
+2. Una empresa formaliza offboarding process con checklist.
+   Ejemplo: [situación real]
+
+3. Un HR team usa checklist para asegurar ningún step se pierda.
+   Ejemplo: [situación real]
+
+4. Una startup crea checklist de offboarding para consistency.
+   Ejemplo: [situación real]
+
+5. Un equipo remoto usa checklist para offboarding de empleado virtual.
+   Ejemplo: [situación real]
+
+6. Una empresa con compliance necesita checklist documentado de offboarding.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

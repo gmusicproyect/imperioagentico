@@ -1,0 +1,23 @@
+CASOS DE USO — activos-lanzamiento
+===================================
+
+1. Una empresa pequeña implementa activos-lanzamiento para estandarizar procesos.
+   Ejemplo: [situación real]
+
+2. Un equipo crece rápidamente; activos-lanzamiento asegura consistencia.
+   Ejemplo: [situación real]
+
+3. Una startup que levanta funding necesita demostrar procesos formales.
+   Ejemplo: [situación real]
+
+4. Un líder que hereda equipo desorganizado usa activos-lanzamiento para crear orden.
+   Ejemplo: [situación real]
+
+5. Una empresa con rotación alta implementa activos-lanzamiento para mejorar retención.
+   Ejemplo: [situación real]
+
+6. Un emprendedor que crece usa activos-lanzamiento para escalar sin perder control.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

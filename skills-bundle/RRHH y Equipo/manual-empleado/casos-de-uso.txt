@@ -1,0 +1,23 @@
+CASOS DE USO — manual-empleado
+===============================
+
+1. Una PyME que crece de 10 a 30 empleados documenta procesos, políticas, y beneficios.
+   Ejemplo: [situación real]
+
+2. Una empresa de tech onboarding remotos; manual acelera integración en 50%.
+   Ejemplo: [situación real]
+
+3. Una startup que levanta funding demuestra procesos documentados a inversores.
+   Ejemplo: [situación real]
+
+4. Después de auditoría laboral, empresa formaliza políticas por escrito para compliance.
+   Ejemplo: [situación real]
+
+5. Un equipo distribuido en 4 países requiere manual multiidioma que clarifica políticas.
+   Ejemplo: [situación real]
+
+6. Un nuevo gerente hereda equipo disfuncional; manual establece expectativas claras.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

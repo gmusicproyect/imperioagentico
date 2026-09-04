@@ -1,0 +1,23 @@
+CASOS DE USO — plantilla-uno-a-uno
+===================================
+
+1. Un manager nuevo en rol necesita estructura para reuniones con 8 reportes.
+   Ejemplo: [situación real]
+
+2. Una startup de 20 personas implementa 1:1s semanales; communication y retención mejoran.
+   Ejemplo: [situación real]
+
+3. Un leader que hereda equipo disfuncional usa 1:1s para entender problemas.
+   Ejemplo: [situación real]
+
+4. Un CEO hace 1:1s bimensuales con 4 direct reports; relationships se profundizan.
+   Ejemplo: [situación real]
+
+5. Un manager usa plantilla de 1:1 que incluye feedback, goals, career development.
+   Ejemplo: [situación real]
+
+6. Una empresa de tech realiza 1:1s para surfacing issues antes de que se vuelvan problemas.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

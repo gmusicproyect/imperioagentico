@@ -1,0 +1,68 @@
+🏭 INDUSTRIAS ESPECÍFICAS
+==================================================
+
+Cada industria tiene sus propias reglas, desafíos y oportunidades. Ya sea educación, real estate, servicios profesionales o manufactura, necesitas entender los matices específicos de tu sector. Esta categoría profundiza en cómo diferentes industrias operan, sus modelos de negocio únicos, regulaciones clave y estrategias probadas que funcionan en ese contexto específico. Desde análisis de mercado hasta procesos operacionales diseñados para tu sector, aquí encontrarás la guía especializada que necesitas para no competir a ciegas.
+
+Para Quién Es
+- Emprendedores nuevos en un sector específico
+- Ejecutivos que entran en una industria poco familiar
+- Consultores que trabajan con múltiples industrias
+- Empresas que quieren entender mejor su ecosistema competitivo
+
+Los 15 Skills de Esta Categoría:
+
+1. Asociacion Plataforma
+Diseña programas de asociación de plataformas con beneficios de integración, co-marketing y modelos de compartir ingresos. Usar al construir asociaciones estratégicas para plataformas de mercado o SaaS.
+
+2. Auditoria Stack Herramientas
+Audita pilas de tecnología empresarial para redundancia, optimización de costos y oportunidades de integración. Usar cuando se revisa y optimiza el gasto de software empresarial.
+
+3. Centro Ayuda Plataforma
+Estructura centros de ayuda de plataformas con secciones separadas para compradores/vendedores, tutoriales en video y escalación de contacto. Usa cuando construyas soporte de autoservicio para plataformas de mercado.
+
+4. Checklist Evaluacion Inquilinos
+Crea listas de verificación de evaluación de inquilinos con pasos de verificación, preguntas de revisión de referencias y criterios de evaluación.
+
+5. Descargo Salud
+Crea descaros de salud y fitness con protección de responsabilidad, límites de consejo médico, y formularios de consentimiento.
+
+6. Descargo Suplemento
+Escribe descaros de suplemento y producto con lenguaje de cumplimiento FDA y límites de reclamos de salud.
+
+7. Documentacion Api
+Crea plantillas de documentación de API con descripciones de puntos de acceso, ejemplos de solicitud/respuesta, y guías de autenticación. Usar cuando se documentan APIs REST para desarrolladores.
+
+8. Evaluacion Saas
+Evalúa herramientas SaaS para adopción empresarial con comparación de características, análisis de precios, y planificación de migración. Usar cuando se elige entre opciones de software para tu negocio.
+
+9. Plan Aplicacion Sin Codigo
+Planifica compilaciones de aplicaciones sin código con selección de herramientas, mapeo de características y diseño de flujo de usuario. Usar cuando se construyen aplicaciones o herramientas sin escribir código.
+
+10. Plan Marketing Restaurante
+Planifica marketing de restaurantes con SEO local, contenido en redes sociales, programas de lealtad y promociones estacionales. Usa cuando crezcas la base de clientes y los ingresos de un restaurante.
+
+11. Plan Menu Estacional
+Planifica rotaciones de menú estacional con abastecimiento de ingredientes, ajustes de precios y marketing de lanzamiento. Usa cuando actualices menús de restaurante para relevancia estacional.
+
+12. Recomendacion Stack Tecnologia
+Recomienda stacks de tecnología para tipos de negocios específicos con selección de herramientas, justificación de costos, y orden de implementación. Usar cuando construyas tu fundación de software empresarial.
+
+13. Respuesta Resena Restaurante
+Escribe respuestas profesionales de restaurante a reseñas positivas, negativas y mixtas en todas las plataformas. Usar cuando se maneja la reputación en línea para un negocio de alimentos.
+
+14. Sistema Confianza Plataforma
+Diseña sistemas de confianza y seguridad con políticas de revisión, resolución de disputas, y medidas de prevención de fraude. Usar cuando se construye infraestructura de confianza para plataformas de mercado.
+
+15. Sop Restaurante
+Construye SOPs de restaurantes para operaciones de cocina, servicio de frente de casa, seguridad alimentaria y procedimientos de apertura/cierre. Usa cuando estandarices las operaciones del restaurante.
+
+Por Donde Empezar?
+Te recomiendo estos 3 para arrancar:
+→ Asociacion Plataforma: Skill fundamental de industrias específicas
+→ Auditoria Stack Herramientas: Skill fundamental de industrias específicas
+→ Centro Ayuda Plataforma: Skill fundamental de industrias específicas
+
+Tip Pro: Únete a asociaciones o grupos de tu industria — el conocimiento tácito que otros dieron por aprendido es tu mayor ventaja competitiva.
+
+---
+Imperio Digital Skills Bundle | 15 skills en esta categoría

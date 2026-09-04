@@ -1,0 +1,23 @@
+CASOS DE USO — checklist-evaluacion-inquilinos
+===============================================
+
+1. Un propietario de inmueble crea checklist para evaluar inquilinos nuevo.
+   Ejemplo: [situación real]
+
+2. Una agencia de property management usa checklist de screening estándar.
+   Ejemplo: [situación real]
+
+3. Un founder de plataforma de rental crea checklist de background check.
+   Ejemplo: [situación real]
+
+4. Una empresa de real estate desarrolla checklist de credit check.
+   Ejemplo: [situación real]
+
+5. Un propietario usa checklist para reducir riesgo de problemas con inquilino.
+   Ejemplo: [situación real]
+
+6. Una plataforma de marketplace de rental crea checklist de verificación.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

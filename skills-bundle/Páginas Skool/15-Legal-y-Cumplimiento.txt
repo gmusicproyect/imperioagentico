@@ -1,0 +1,113 @@
+⚖️ LEGAL Y CUMPLIMIENTO
+==================================================
+
+Ignorar lo legal es una ilusión que sale cara. Ya sea contratos, protección intelectual, cumplimiento regulatorio o privacidad de datos, estas decisiones tempranas definen tu riesgo futuro. Esta categoría te da las plantillas, políticas y marcos legales que necesitas para operar correctamente sin pagar asesor legal por todo. Aprenderás qué documentos son críticos, cómo proteger tu propiedad intelectual, qué normativas aplican a tu negocio, y cómo estructurar acuerdos que protejan ambas partes. La mejor defensa legal es la prevención documentada.
+
+Para Quién Es
+- Fundadores que necesitan estructura legal básica
+- Directores de cumplimiento (compliance)
+- Equipos de contabilidad y finanzas
+- Cualquier empresa que maneja datos de clientes o empleados
+
+Los 30 Skills de Esta Categoría:
+
+1. Acuerdo Asociacion
+Drafts business partnership agreements with roles, profit sharing, decision-making, and exit provisions. Use when forming a business partnership or joint venture.
+
+2. Acuerdo Cliente
+Redacta acuerdos de servicio al cliente con alcance, entregables, plazos, límites de revisión y términos de pago. Usa cuando crees contratos para compromisos con clientes.
+
+3. Acuerdo Contratista Independiente
+Creates independent contractor agreements with scope, payment, IP ownership, and non-compete clauses. Use when hiring freelancers or contractors for your business.
+
+4. Acuerdo Licencia
+Drafts content and product licensing agreements with usage rights, royalty structures, exclusivity terms, and territory definitions. Use this skill when a creator wants to license their intellectual property, photos, courses, templates, music, or digital products to another party.
+
+5. Acuerdo No Competencia
+Creates non-compete agreements with reasonable scope, duration, geographic limits, and enforceability notes. Use when protecting business interests from competition.
+
+6. Acuerdo Procesamiento Datos
+Drafts data processing agreements for GDPR compliance with processing details and security measures. Use when you process personal data on behalf of another business.
+
+7. Acuerdo Retenedor
+Drafts retainer agreement templates with scope, hours, rollover policies, and termination terms for service providers.
+
+8. Acuerdo Saas
+Drafts SaaS subscription agreements with service levels, data ownership, and termination provisions. Use when creating terms for a software-as-a-service product.
+
+9. Acuerdo Subcontratista
+Drafts subcontractor agreements with scope delegation, payment terms, and quality requirements for service businesses.
+
+10. Auditoria Propiedad Intelectual
+Audits IP assets with trademark, copyright, trade secret, and patent inventory and protection recommendations. Use when assessing and organizing your business IP portfolio.
+
+11. Aviso Copyright
+Creates copyright notices and policies for digital content with DMCA procedures and fair use guidelines. Use when protecting original content and establishing copyright policies.
+
+12. Carta Intencion
+Creates letters of intent for business transactions with key terms, conditions, and timeline. Use when formalizing preliminary agreement on a business deal.
+
+13. Cese Y Desista
+Redacta cartas de cese y desista para infracción de PI, difamación o violaciones de contrato. Usa cuando necesites demandar formalmente a alguien que detenga actividad dañina.
+
+14. Generador Descargos
+Generates legal disclaimers for websites, products, and services with liability limitations and warranty exclusions. Use when adding disclaimers to your business properties.
+
+15. Liberacion Exencion
+Drafts liability waivers and release forms for events, services, and activities. Use when you need participants to acknowledge and accept risks.
+
+16. Lista Cumplimiento
+Creates industry-specific regulatory compliance checklists with documentation requirements and audit preparation. Use when ensuring your business meets regulatory obligations.
+
+17. Lista Cumplimiento Gdpr
+Creates GDPR compliance checklists with data mapping, consent mechanisms, and breach response procedures. Use when ensuring your business complies with GDPR requirements.
+
+18. Plantilla Nda
+Generates mutual and unilateral NDA templates with customizable confidentiality terms, exclusions, and duration. Use this skill when a user needs a non-disclosure agreement for sharing sensitive information with potential partners, contractors, investors, or collaborators.
+
+19. Politica Accesibilidad
+Redacta políticas de accesibilidad web con compromisos de cumplimiento WCAG y procedimientos de acomodación. Usa cuando crees una declaración de accesibilidad para tu sitio web.
+
+20. Politica Cookies
+Writes cookie consent policies with category descriptions, opt-out mechanisms, and GDPR/CCPA compliance. Use when creating or updating your website's cookie policy.
+
+21. Politica Devolucion
+Writes clear, customer-friendly return and refund policies for e-commerce stores, digital products, and service businesses with plain-language clauses and platform-specific formatting. Use when a user needs a return policy for their online store, wants to update their refund terms, or needs policies for digital products, subscriptions, or services.
+
+22. Politica Envios
+Writes clear shipping and delivery policies with rate tables, timelines, and international terms. Use this skill when a user needs a shipping policy for their e-commerce store, wants to document delivery timelines, or needs professional shipping and returns documentation for their website.
+
+23. Politica Gastos
+Creates corporate expense policies with spending limits, approval workflows, and reimbursement procedures. Use when establishing rules for business spending and reimbursements.
+
+24. Politica Lugar Trabajo
+Creates workplace policies covering remote work, equipment, communication, and professional conduct. Use when establishing rules and expectations for your team.
+
+25. Politica Privacidad
+Writes GDPR and CCPA-compliant privacy policies for websites, apps, and online businesses with plain-language annotations explaining each section. Use when a user is launching a website, setting up e-commerce, collecting customer data, or needs to update an outdated privacy policy.
+
+26. Politica Terminos Pago
+Creates payment terms and collections policies with net terms, late fee structures, and escalation procedures. Use when establishing how and when clients must pay.
+
+27. Redactor Contratos
+Drafts service agreements, freelance contracts, and partnership agreements with standard clauses and plain-language annotations explaining each section. Use when a user needs a professional contract template, wants to formalize a client relationship, or needs a starting point for legal review.
+
+28. Solicitud Marca Registrada
+Guides trademark application preparation with class selection, specimen requirements, and filing checklists. Use when preparing to file a trademark with the USPTO.
+
+29. Terminos Servicio
+Creates terms of service documents for websites, SaaS products, and digital platforms with plain-language annotations. Use when a user is launching a website, app, or online service and needs legal terms governing usage, liability, and user conduct.
+
+30. Terminos Uso App
+Creates terms of use specifically for mobile apps with license grants, restrictions, and app store compliance. Use when launching or updating a mobile application.
+
+Por Donde Empezar?
+Te recomiendo estos 3 para arrancar:
+→ Acuerdo Asociacion: Skill fundamental de legal y cumplimiento
+→ Acuerdo Cliente: Skill fundamental de legal y cumplimiento
+→ Acuerdo Contratista Independiente: Skill fundamental de legal y cumplimiento
+
+Tip Pro: Gasta 500-1000 con abogado en estructura temprana — evita 50k en problemas después. La prevención es la mejor inversión legal.
+
+---
+Imperio Digital Skills Bundle | 30 skills en esta categoría

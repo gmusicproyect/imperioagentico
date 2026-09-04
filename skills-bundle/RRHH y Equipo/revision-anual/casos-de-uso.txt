@@ -1,0 +1,23 @@
+CASOS DE USO — revision-anual
+==============================
+
+1. Un CEO de SaaS hace review anual de métricas clave.
+   Ejemplo: [situación real]
+
+2. Un founder de marketplace hace review de performance anual.
+   Ejemplo: [situación real]
+
+3. Una startup de fintech revisa progreso anual vs plan.
+   Ejemplo: [situación real]
+
+4. Un VP de Growth usa revisión anual para reafirmar estrategia.
+   Ejemplo: [situación real]
+
+5. Un equipo de operaciones usa revisión anual para improvement planning.
+   Ejemplo: [situación real]
+
+6. Un board de startup revisa resultados anuales; datos guían estrategia.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

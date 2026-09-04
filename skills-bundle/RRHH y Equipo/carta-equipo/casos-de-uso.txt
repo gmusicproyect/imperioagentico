@@ -1,0 +1,23 @@
+CASOS DE USO — carta-equipo
+============================
+
+1. Un startup en crecimiento con 5 miembros necesita establecer roles claros tras agregar 2 nuevos developers.
+   Ejemplo: [situación real]
+
+2. Una empresa que pasa de oficina a remoto híbrido documenta acuerdos sobre comunicación, horarios, disponibilidad.
+   Ejemplo: [situación real]
+
+3. Un equipo de marketing experimenta conflictos; charter clarifica responsabilidades y decisiones.
+   Ejemplo: [situación real]
+
+4. Después de reestructuración, un equipo de 8 personas redefine propósito, métricas, y cómo toman decisiones.
+   Ejemplo: [situación real]
+
+5. Una empresa adquiere otra; charter integra dos equipos con culturas diferentes.
+   Ejemplo: [situación real]
+
+6. Un líder virtual gestiona personas en 3 países; charter documenta acuerdos de comunicación sincronizados.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

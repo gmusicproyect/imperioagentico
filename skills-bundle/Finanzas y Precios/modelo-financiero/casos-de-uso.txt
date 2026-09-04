@@ -1,0 +1,23 @@
+CASOS DE USO — modelo-financiero
+=================================
+
+1. Un founder pasa de napkin a modelo Excel completo con 5 años de proyecciones.
+   Ejemplo: [situación real]
+
+2. Una startup de marketplace modela crecimiento, comisión, y márgenes.
+   Ejemplo: [situación real]
+
+3. Un negocio de SaaS modela escenarios: qué pasa si churn sube 1%.
+   Ejemplo: [situación real]
+
+4. Una consultora de tech valida que puede llegar a $10M de ARR en 5 años.
+   Ejemplo: [situación real]
+
+5. Un founder calcula exactamente cuántos clientes necesita a qué LTV.
+   Ejemplo: [situación real]
+
+6. Una startup modela diferentes estrategias de pricing.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

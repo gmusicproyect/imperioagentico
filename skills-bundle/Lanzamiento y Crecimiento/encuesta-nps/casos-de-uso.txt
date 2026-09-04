@@ -1,0 +1,23 @@
+CASOS DE USO — encuesta-nps
+============================
+
+1. Una SaaS calcula NPS trimestral; es métrica key en board deck.
+   Ejemplo: [situación real]
+
+2. Un startup de e-commerce hace encuesta de satisfacción post-compra; NPS es 42.
+   Ejemplo: [situación real]
+
+3. Una agencia de servicios mide satisfacción de clientes; baja scores disparan análisis de causa raíz.
+   Ejemplo: [situación real]
+
+4. Un founder de SaaS nota que NPS bajó 5 puntos; investigación revela que bug nuevo de feature recent.
+   Ejemplo: [situación real]
+
+5. Una empresa de educación mide NPS de estudiantes; 90% probaría recomendar = 80 NPS score.
+   Ejemplo: [situación real]
+
+6. Un startup de fintech usa encuesta de satisfacción para validar product-market fit.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

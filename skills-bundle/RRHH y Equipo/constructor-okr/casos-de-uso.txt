@@ -1,0 +1,23 @@
+CASOS DE USO — Constructor de OKRs
+===============================
+
+1. Un startup define OKRs: 'Dominar mercado vertical', Keys = 'MRR $50k', 'NPS > 8'.
+   Ejemplo: [situación real]
+
+2. Una empresa de 50+ personas usa OKR para alinear 5 departments.
+   Ejemplo: [situación real]
+
+3. Un CEO introduce OKRs reemplazando KPIs vagos.
+   Ejemplo: [situación real]
+
+4. Un equipo de product usa OKRs para decidir qué features priorizar.
+   Ejemplo: [situación real]
+
+5. Una startup pivota strategy mid-year; OKRs guían reallocate recursos.
+   Ejemplo: [situación real]
+
+6. Un VP de Growth usa OKRs para comunicar targets a team.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

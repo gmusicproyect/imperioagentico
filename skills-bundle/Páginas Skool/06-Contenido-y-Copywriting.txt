@@ -1,0 +1,195 @@
+✍️ CONTENIDO Y COPYWRITING
+==================================================
+
+Palabras venden. Pero las palabras correctas venden 10x más que las mediocres. La diferencia entre un email que genera 2% de respuesta y uno que genera 40% no es magia — es estructura, hook y psicología.
+
+Estos 56 skills cubren todo lo que necesitas saber sobre copywriting — desde headlines que detienen la atención hasta emails que convierten hasta narrativas que inspiran acción. Aprenderás los frameworks que usan los mejores copywriters del mundo: AIDA, PAS, storytelling, emotional triggers.
+
+Pero esto no es solo sobre vender. Es sobre comunicar claro, conectar con tu audiencia, y lograr que hagan lo que necesitan hacer para avanzar con vos.
+
+¿Para Quién Es?
+- Emprendedores que escriben sus propios emails y landing pages
+- Content creators que quieren que su contenido convierta
+- Marketers que entienden métricas pero no saben escribir que conecte
+- Agencias que necesitan levantar el nivel de sus copywriters
+
+Los 56 Skills de Esta Categoría:
+
+1. Anuncio Caracteristica
+Anuncia nueva característica de producto en forma de comunicado de prensa o blog post. Utiliza para educar usuarios y generar entusiasmo.
+
+2. Articulo Blog
+Escribe artículos de blog optimizados para SEO de forma larga con aprobación de esquema, meta descripciones, sugerencias de enlaces internos, briefs de imagen destacada y una lista de verificación de SEO pre-publicación. Utiliza esta skill cuando un usuario necesita un artículo de blog para su sitio web, quiere ranking para palabras clave específicas o necesita piezas de marketing de contenido que impulsen tráfico orgánico.
+
+3. Articulo Comparacion
+Escribe artículos de comparación 'X vs Y' con tablas de características, pros/contras, casos de uso y lógica de recomendación. Utiliza cuando creas contenido de comparación de producto o servicio para SEO o orientación de comprador.
+
+4. Articulo Help Center
+Escribe artículos del centro de ayuda con instrucciones paso a paso, marcadores de posición de captura de pantalla y secciones de solución de problemas para autoservicio del cliente.
+
+5. Articulo Linkedin
+Escribe artículos largos en LinkedIn optimizados para el algoritmo de la plataforma con tono profesional, hooks de engagement y CTA. Usa cuando necesites contenido de liderazgo de pensamiento publicado directamente en LinkedIn.
+
+6. Articulo Newsletter Estrategia
+Planifica cadencia de newsletter, temas de contenido, tácticas de crecimiento y estrategia de monetización para publicaciones de correo electrónico. Usa cuando lances o reestructures una newsletter de correo electrónico para tu negocio.
+
+7. Articulo Pensamiento Liderazgo
+Escribe piezas de opinión y artículos de liderazgo de pensamiento que posicionen al autor como una autoridad de la industria. Usa cuando necesites publicar una perspectiva sólida sobre un tema de la industria.
+
+8. Articulo Pillar
+Crea páginas pilares comprehensivas (3,000+ palabras) que sirvan como centros de contenido enlazando a contenido de cluster relacionado. Usa cuando construyas una estrategia de cluster de tema SEO con una página angular.
+
+9. Auditoria Contenido
+Audita inventario de contenido existente para brechas, oportunidades de actualización, candidatos de consolidación y decaimiento SEO. Utiliza cuando revises tu librería de contenido para encontrar qué actualizar, fusionar o eliminar.
+
+10. Biografia Profesional
+Escribe biografías profesionales en múltiples longitudes para diferentes plataformas y contextos con personal brand consistente.
+
+11. Brechas Contenido
+Identifica brechas de contenido analizando contenido competidor, desajustes de intención de búsqueda y preguntas de audiencia. Usa cuando planees qué contenido crear a continuación basado en oportunidades estratégicas.
+
+12. Calendario Contenido
+Genera un calendario de contenido de 30 días como una base de datos de Notion con publicaciones asignadas a pilares de contenido, plataformas y fechas, más plantillas gráficas de inicio en Canva para cada pilar de contenido. Usa cuando un usuario necesite planificar su contenido del mes, quiera un cronograma de publicación estructurado o necesite crear contenido por lotes en múltiples plataformas.
+
+13. Changelog Producto
+Crea formatos de changelog de producto con notas de versión, categorización (nuevo, mejorado, reparado) y lenguaje amigable para usuarios. Usa cuando documentes actualizaciones de producto para usuarios.
+
+14. Comunicado Caracteristica Producto
+Escribe anuncios de lanzamiento de características con marco de beneficio, capturas de pantalla y estímulo de adopción en canales. Usa cuando lances nuevas características de producto.
+
+15. Comunicado Prensa
+Escribe comunicados de prensa profesionales siguiendo estilo AP con titular, línea de ubicación, párrafo introductorio, cuerpo, párrafo informativo y secciones de contacto de medios. Usa cuando un usuario está lanzando un producto, anunciando un hito, haciendo una contratación, formando una asociación, o tiene cualquier evento con valor noticiable para compartir con medios.
+
+16. Constructor Newsletter
+Construye newsletters profesionales con estructura, templates y CTA claros. Usa cuando necesites crear newsletters regulares para tu audiencia.
+
+17. Constructor Propuesta Libro 2
+Construye propuestas de libro profesionales con resumen ejecutivo, argumento, estructura y mercado para atraer editores o agentes. Usa cuando prepares una propuesta de libro para publicación.
+
+18. Copia Pagina Coleccion
+Escribe copia de página de colección de productos que venda una colección o categoría. Usa cuando necesites convertidores para páginas que muestren múltiples productos.
+
+19. Copia Pagina Donacion
+Escribe copia de página de donación con urgencia, encuadre de impacto, incentivo de donación recurrente y señales de confianza.
+
+20. Copia Pagina Pricing
+Escribe página de pricing que comunique valor, compare planes y maneje objeciones. Usa cuando necesites vender suscripciones o planes de precios.
+
+21. Descripcion Producto
+Escribe descripciones de producto que vendan beneficios, no solo características. Usa para cualquier página de producto que necesite conversión.
+
+22. Escritor Captions
+Escribe captions de redes sociales optimizados para plataforma con CTAs, hashtags y límites de caracteres para Instagram, LinkedIn, TikTok, X/Twitter y Facebook. Utiliza esta skill cuando un usuario necesita captions para posts de redes sociales, quiere escribir captions en lote para un calendario de contenido o necesita formato específico de plataforma.
+
+23. Escritor Microcopy
+Escribe microcopy — botones, labels, mensajes de error y tooltips que guíen y convenzan. Usa para cualquier elemento de interfaz pequeño que necesite claridad.
+
+24. Esquema Ebook
+Crea esquema de eBook con estructura de capítulos, flujo de contenido y deliverables. Usa cuando planifiques la estructura de un eBook antes de escribir.
+
+25. Esquema Libro
+Esboza libros de no ficción con estructura de capítulo, argumentos clave, evidencia de apoyo y objetivos de cantidad de palabras por capítulo. Utiliza esta skill cuando un usuario quiere escribir un libro de no ficción, necesita organizar su experiencia en una estructura publicable, o está pitcheando una propuesta de libro a editores o agentes.
+
+26. Estrategia Contenido Autoridad
+Planifica estrategias de contenido para construir autoridad con piezas de investigación, marcos originales y estudios de datos.
+
+27. Estrategia Experto Reputacion
+Planifica estrategias de contenido diseñadas para construir autoridad con piezas de investigación, marcos originales y estudios de datos.
+
+28. Estrategia Pilares Contenido
+Define los 3-5 pilares de contenido de tu marca. Usa cuando necesites estructurar tu estrategia de contenido alrededor de temas principales.
+
+29. Estudio Caso
+Transforma resultados de clientes y resultados de proyectos en estudios de caso estructurados con secciones de situación, desafío, solución y resultados. Utiliza cuando un usuario quiere mostrar victorias de cliente, necesita social proof para su proceso de ventas o quiere documentar historias de éxito de proyectos para su sitio web o propuestas.
+
+30. Faq Producto
+Crea sección FAQ que anticipe objeciones y convierta espectadores escépticos. Usa en páginas de producto para manejar objeciones.
+
+31. Generador Faq
+Genera listas exhaustivas de preguntas frecuentes basadas en búsquedas, patrones de preguntas de audiencia y objeciones comunes. Usa cuando necesites crear FAQ desde cero.
+
+32. Generador Hook
+Genera hooks cautivadores para cualquier formato de contenido incluyendo intros de video, publicaciones sociales, correos electrónicos, artículos y anuncios. Usa cuando necesites líneas de apertura que detengan el scroll, quieras probar múltiples ángulos de hook para una pieza de contenido, o tengas dificultad en cómo comenzar tu contenido.
+
+33. Generador Listicle
+Crea artículos listicle atractivos con estructura de entrada consistente, ejemplos y optimización SEO. Usa al escribir publicaciones de listas numeradas como 'Top 10' o 'Mejor X para Y'.
+
+34. Guia Breve Recetas
+Crea una guía breve de recetas con instrucciones claras, ingredientes y variaciones. Usa para contenido de receta simple y visual.
+
+35. Guia Estilo Contenido
+Crea guías de estilo editorial que cubren preferencias gramaticales, reglas de formato, pautas de tono y listas de palabras. Úsalo cuando estandarices la calidad del contenido entre escritores, plataformas o miembros del equipo.
+
+36. Guia Podcast One Sheet
+Crea hojas de presentación de podcast para reservas de invitados con descripción del programa, biografía del anfitrión, estadísticas de audiencia y tarifas de patrocinio. Úsalo cuando abordas patrocinadores o recluta invitados de alto perfil.
+
+37. Historia Marca
+Elabora historias de origen cautivadoras y narrativas de marca usando el marco del viaje del héroe. Utiliza cuando un usuario necesita una historia de página acerca de, narrativa de lanzamiento, backstory de pitch deck o quiere articular por qué existe su negocio de una manera que conecte emocionalmente con clientes.
+
+38. Hoja Podcast Presentacion
+Crea hojas de presentación de podcast para reservas de invitados con descripción del programa, biografía del anfitrión, estadísticas de audiencia y tarifas de patrocinio. Úsalo cuando abordas patrocinadores o recluta invitados de alto perfil.
+
+39. Kit Prensa
+Crea kits de prensa completos con antecedentes de la empresa, biografía del fundador, activos de alta resolución, hojas de datos y contactos de medios. Úsalo cuando te prepares para la difusión de medios o campañas de relaciones públicas.
+
+40. Notas Lanzamiento
+Escribe notas de lanzamiento amigables para el usuario con cambios categorizados, guías de migración y problemas conocidos. Úsalo cuando comuniques actualizaciones de software a usuarios e interesados.
+
+41. Notas Show Podcast
+Transforma transcripciones de podcast o video en notas de episodio estructuradas con timestamps, puntos clave, enlaces de recursos, biografías de invitados, citas destacadas y descripciones de episodios optimizadas para SEO. Úsalo cuando tengas una transcripción o resumen de grabación y necesites notas pulidas para tu página de episodios de podcast.
+
+42. Pagina Acerca De
+Escribe páginas acerca de, biografías de fundadores e introducciones de equipos cautivadores que generan confianza y convierten visitantes usando marcos de narrativa y social proof. Utiliza esta skill cuando un usuario necesita una página acerca de para su sitio web, quiere escribir una biografía profesional, o necesita presentar su equipo de una manera que genere credibilidad.
+
+43. Pagina Recetas
+Crea tarjetas de recetas profesionales con listas de ingredientes, instrucciones paso a paso y cálculos de escala. Úsalo cuando documentes recetas para clientes, contenido u operaciones.
+
+44. Pitch Experto Roundup
+Escribe pitches para inclusión en roundups de expertos con respuestas citables y posicionamiento constructor de autoridad. Úsalo cuando busques backlinks y exposición de liderazgo intelectual.
+
+45. Pitch Ghostwriter
+Crea briefs completos para ghostwriters incluyendo muestras de voz, orientación temática, objetivos SEO y reglas de estilo. Úsalo cuando contrates un escritor y necesites comunicar tus expectativas claramente.
+
+46. Plan Cluster Contenido
+Diseña estrategias de clusters temáticos con páginas pilares, contenido de cluster y arquitectura de enlaces internos. Úsalo cuando construyas autoridad temática para SEO.
+
+47. Plan Estrategia Pensamiento Liderazgo
+Planifica contenido de liderazgo intelectual en artículos, charlas, posts sociales e entrevistas con mensajería consistente.
+
+48. Plantilla Contenido Pago
+Escribe copia de página de donaciones con urgencia, encuadre de impacto, ánimo de donaciones recurrentes, y señales de confianza.
+
+49. Presentador Tutorial
+Crea tutoriales paso a paso con marcadores de captura de pantalla, fragmentos de código y secciones de solución de problemas. Úsalo cuando necesites escribir una guía de cómo hacer, documentación de ayuda, tutorial de incorporación o tutorial educativo.
+
+50. Propuesta Libro
+Escribe propuestas de libros de no ficción con resumen general, análisis de mercado, títulos competidores, esquemas de capítulo y capítulos de muestra.
+
+51. Reescritor Articulos
+Reescribe artículos existentes con ángulos frescos, datos actualizados y SEO mejorado mientras preserva el mensaje central. Utiliza esta skill al refrescar contenido desactualizado o adaptar artículos para nuevas audiencias.
+
+52. Reescritor Articulos 2
+Reescribe artículos existentes con ángulos frescos, datos actualizados y SEO mejorado preservando el mensaje central. Úsalo al refrescar contenido desactualizado o adaptar artículos para nuevas audiencias.
+
+53. Repurposing Contenido
+Reutiliza una sola pieza de contenido (publicación de blog, transcripción, newsletter, script de video) en múltiples formatos listos para plataforma incluyendo posts sociales, copia de email, threads y scripts de video de corta duración. Úsalo cuando tengas contenido existente que quieras distribuir entre canales.
+
+54. Resumen Contenido
+Audita inventario de contenido existente para brechas, oportunidades de actualización, candidatos de consolidación y decaimiento SEO. Úsalo cuando revises tu biblioteca de contenido para encontrar qué actualizar, fusionar o eliminar.
+
+55. Script Video
+Escribe scripts de video listos para filmar con hooks, desglose de segmentos, señales de B-roll, notas de superposición de texto, estimaciones de tiempo y listas de tomas. Úsalo cuando necesites un script para YouTube, TikTok, Instagram Reels, contenido de curso o cualquier formato de video.
+
+56. Tarjeta Receta
+Crea tarjetas de receta profesionales con listas de ingredientes, instrucciones paso a paso y cálculos de escalado. Usa al documentar recetas para clientes, contenido u operaciones.
+
+¿Por Dónde Empezar?
+Te recomiendo estos 3 para arrancar:
+→ Anuncio Caracteristica: Empieza aquí para entender los fundamentos.
+→ Articulo Blog: Continúa con esto para aplicar lo que aprendiste.
+→ Articulo Comparacion: Completa tu comprensión con este skill.
+
+Tip Pro: La mejor copy empieza en tu customer's brain, no en tu producto. Escribe para el problema que ellos sienten, no para las features que vos tienes.
+
+---
+Imperio Digital Skills Bundle | 56 skills en esta categoría

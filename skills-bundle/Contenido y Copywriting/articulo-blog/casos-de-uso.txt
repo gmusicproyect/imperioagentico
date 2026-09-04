@@ -1,0 +1,19 @@
+CASOS DE USO — Articulo Blog
+================================
+
+1. Una empresa SaaS de analítica necesita 10 artículos de blog para posicionarse en palabras clave B2B. Usas esta skill para escribir un artículo de 2,000 palabras sobre "mejores prácticas de tracking de eventos" con esquema SEO, meta descripción y checklist de pre-publicación.
+   Ejemplo: Situación específica del uso
+
+2. Un consultor de marketing quiere generar tráfico orgánico con contenido de liderazgo de pensamiento. Escribes un artículo que responde la pregunta que sus leads ideal buscan en Google, optimizando para ranking.
+   Ejemplo: Situación específica del uso
+
+3. Un ecommerce de moda necesita crear contenido que eduque a su audiencia sobre tendencias. Produces un listicle "5 Errores de Styling que Cometen Las Mujeres" con briefs de imagen destacada y sugerencias de interenlazado.
+
+4. Un agency de SEO usa esta skill para escribir artículos en sitios de clientes que apunten a palabras clave de alto valor comercial, entregando esquema aprobado antes de escritura completa.
+
+5. Un creador solitario construye un blog sobre productividad remota. Usas la skill para escribir posts que respondan preguntas específicas que su comunidad formula, con meta descripciones optimizadas para CTR.
+
+6. Una institución educativa necesita 6 artículos que eduquen sobre opciones de carrera. Produces contenido con estructura clara, ejemplos concretos y CTAs que redirigen a páginas de matrícula.
+
+---
+Imperio Digital Skills Bundle

@@ -1,0 +1,23 @@
+CASOS DE USO — configuracion-contabilidad
+==========================================
+
+1. Un freelancer empieza a ganar dinero; configura contabilidad básica en planilla.
+   Ejemplo: [situación real]
+
+2. Una startup de SaaS crea estructura de contabilidad con múltiples buckets de gasto.
+   Ejemplo: [situación real]
+
+3. Un founder configura contabilidad para que puedan auditar fácilmente.
+   Ejemplo: [situación real]
+
+4. Una empresa de tech crea cuenta de gastos por departamento para rastrear margins.
+   Ejemplo: [situación real]
+
+5. Un equipo de finanzas crea chart of accounts nuevo después de merger.
+   Ejemplo: [situación real]
+
+6. Una startup de educación configura contabilidad por programa de curso.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

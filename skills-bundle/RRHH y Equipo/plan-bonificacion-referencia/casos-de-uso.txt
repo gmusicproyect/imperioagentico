@@ -1,0 +1,23 @@
+CASOS DE USO — plan-bonificacion-referencia
+============================================
+
+1. Un startup crea plan de bonificación por referencia; empleados se convierten en recruiters.
+   Ejemplo: [situación real]
+
+2. Una empresa crece 3x en tamaño; programa de bonificación por referencia abarata costo por hire 40%.
+   Ejemplo: [situación real]
+
+3. Un founder de SaaS implementa plan que da bono a employee + referido.
+   Ejemplo: [situación real]
+
+4. Una agencia de marketing usa plan de bonificación para generar leads de empresas target.
+   Ejemplo: [situación real]
+
+5. Un startup unicornio usa plan para atraer ex-empleados con bonos de referencia.
+   Ejemplo: [situación real]
+
+6. Un startup con presupuesto limitado de recruiting usa bonificación como channel primario.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

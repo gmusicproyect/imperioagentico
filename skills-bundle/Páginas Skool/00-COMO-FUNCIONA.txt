@@ -1,0 +1,125 @@
+🚀 IMPERIO DIGITAL SKILLS BUNDLE — CÓMO FUNCIONA
+==================================================
+
+¿Qué es el Skills Bundle?
+
+Tienes acceso a 503 skills de IA para Claude — nada de genérico, nada de guessing. Cada skill convierte a Claude en un especialista para una tarea específica en tu negocio digital.
+
+Cubren marketing, ventas, contenido, operaciones, finanzas, legal y más. Todo está creado por Imperio Digital, 100% en español, listo para copiar y pegar.
+
+No es un curso. No es una lista de prompts aleatorios. Es un arsenal completo de procesos profesionales.
+
+
+¿Qué es un "Skill"?
+--------------------------------------------------
+
+Un skill es un conjunto estructurado de instrucciones que le dice a Claude exactamente cómo completar una tarea específica.
+
+Sin skill: le pides a Claude "escribe un email" → resultado genérico, sin dirección, sin estrategia.
+
+Con skill: Claude sigue un proceso batalla-testeado con fases claras, checkpoints de validación y templates listos. Resultado: profesional, alineado con tu estrategia, en minutos.
+
+Cada skill incluye:
+- Metadata (nombre, descripción, autor)
+- Cuándo Usar (situaciones exactas donde aplica)
+- Principio Fundamental (la idea clave)
+- Fases de Trabajo (proceso paso a paso)
+- Puntos de Control (validaciones antes de continuar)
+- Templates (plantillas listas para usar)
+- Anti-Patrones (qué NO hacer)
+- Recuperación (cómo salir de problemas si algo se tuerce)
+- Casos de Uso (archivo adicional con 5-6 ejemplos prácticos)
+
+
+Las 20 Categorías
+--------------------------------------------------
+
+🤖 IA y Tecnología (4 skills) — Automatización e integración de IA en tu infraestructura
+
+📢 Ads y Medios Pagados (22 skills) — Campañas, copy de ads, retargeting, A/B testing
+
+📊 Analítica y Datos (22 skills) — Dashboards, KPIs, análisis de conversión, reportes
+
+🎨 Branding y Diseño (24 skills) — Identidad visual, voz de marca, naming, strategy
+
+🤝 Cliente y Consultoría (18 skills) — Onboarding, propuestas, coaching, follow-up
+
+✍️ Contenido y Copywriting (56 skills) — Blog, copy, guiones, headlines, email
+
+🎓 Cursos y Educación (20 skills) — Diseño de cursos, webinars, talleres, estructura
+
+🛒 E-commerce y Productos (24 skills) — Descripciones, lanzamientos, bundles, upsells
+
+📧 Email Marketing (42 skills) — Secuencias, automatización, newsletters, engagement
+
+🎤 Eventos y Oratoria (24 skills) — Webinars, conferencias, lanzamientos, presentaciones
+
+💰 Finanzas y Precios (28 skills) — Modelos financieros, pricing, ROI, forecasting
+
+👥 RRHH y Equipo (29 skills) — Reclutamiento, cultura, evaluaciones, retención
+
+🏭 Industrias Específicas (15 skills) — SaaS, restaurantes, plataformas, verticales
+
+🚀 Lanzamiento y Crecimiento (24 skills) — Go-to-market, onboarding, NPS, virality
+
+⚖️ Legal y Cumplimiento (30 skills) — Contratos, políticas, compliance, términos
+
+💚 ONG y Comunidad (2 skills) — Recaudación, impacto social, voluntariado
+
+⚙️ Operaciones y Sistemas (30 skills) — SOPs, procesos, automatización, workflows
+
+🔍 SEO y Búsqueda (20 skills) — Keywords, auditoría técnica, contenido SEO, clustering
+
+📱 Redes Sociales (38 skills) — Estrategia, calendario, community management, viralidad
+
+💼 Ventas y Embudos (31 skills) — Funnels, propuestas, high ticket, objeciones, cierre
+
+
+Cómo Usar un Skill (Paso a Paso)
+--------------------------------------------------
+
+1. Elige la categoría según lo que necesitas hacer hoy
+2. Descarga el skill (archivo .md desde la carpeta)
+3. Cópialo y pégalo en Claude — o compártelo como archivo directo
+4. Claude te pedirá la información específica de tu negocio
+5. Sigue el proceso guiado: Claude te lleva por cada fase, checkpoints y templates
+6. Obtén un resultado profesional en 20-45 minutos — listo para usar o ajustar
+
+No necesitas ser experto. No necesitas experiencia previa. Claude es tu guía.
+
+
+Tips Pro
+--------------------------------------------------
+
+- Combina varios skills en un mismo proyecto — ejemplo: lead magnet + email sequence + landing page
+- Personaliza los skills editando el archivo según tu contexto
+- Da contexto específico de tu negocio — cuanto más detalles, mejores resultados
+- No saltes los Puntos de Control — existen para validar que vas en la dirección correcta
+- Cada carpeta incluye un archivo de casos de uso — úsalo para inspirarte y entender aplicaciones reales
+
+
+Ejemplo Real
+--------------------------------------------------
+
+Situación: Quiero crear un lead magnet para mi funnel de webinar.
+
+Flujo:
+→ Navega a Categoría: Ventas y Embudos
+→ Descarga Skill: lead-magnet
+→ Claude te guía: investigación de audiencia → estructura → redacción → CTA → testing
+→ Resultado: lead magnet profesional, con copy orientado a conversión, en 30-45 minutos
+
+De ahí pasas al skill de email sequence para el seguimiento automático.
+
+
+Empieza Ahora
+--------------------------------------------------
+
+Navega a cualquier categoría y descarga tu primer skill.
+
+Tu negocio digital está a punto de subir de nivel. No es magia — es un proceso. 🔥
+
+¿Qué necesitas hacer hoy? Ve a esa categoría y comienza.
+
+---
+Imperio Digital Skills Bundle | 503 skills en 20 categorías

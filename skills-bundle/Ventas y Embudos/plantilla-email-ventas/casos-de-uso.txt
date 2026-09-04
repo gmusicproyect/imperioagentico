@@ -1,0 +1,23 @@
+CASOS DE USO — Plantilla Email Ventas
+==================================================
+
+1. E-commerce enviando email de recuperación de carrito abandonado con descuento
+   Ejemplo: Situación empresarial donde esto es crítico
+
+2. Coach online segmentando lista para ofertas personalizadas a diferentes audiencias
+   Ejemplo: Situación empresarial donde esto es crítico
+
+3. Agencia de marketing testeando subject lines para mejorar open rate y clicks
+   Ejemplo: Situación empresarial donde esto es crítico
+
+4. Empresa SaaS activando onboarding automático para nuevos usuarios premium
+   Ejemplo: Situación empresarial donde esto es crítico
+
+5. Influencer enviando newsletter semanal a su comunidad con contenido exclusivo
+   Ejemplo: Situación empresarial donde esto es crítico
+
+6. Negocio nurturando leads del webinar con secuencia de follow-up estratégica
+   Ejemplo: Situación empresarial donde esto es crítico
+
+---
+Imperio Digital Skills Bundle

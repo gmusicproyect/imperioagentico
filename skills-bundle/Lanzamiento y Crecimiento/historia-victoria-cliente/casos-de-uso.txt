@@ -1,0 +1,23 @@
+CASOS DE USO — historia-victoria-cliente
+=========================================
+
+1. Un SaaS documenta customer success stories que usan en marketing.
+   Ejemplo: [situación real]
+
+2. Un startup de consulting crea caso de estudio de cliente que demuestra ROI.
+   Ejemplo: [situación real]
+
+3. Una agencia de marketing crea historias de victoria de clientes con números concretos de resultados.
+   Ejemplo: [situación real]
+
+4. Un founder de SaaS usa customer stories en landing page; conversion rate sube 25%.
+   Ejemplo: [situación real]
+
+5. Una empresa de educación documenta success stories de estudiantes que lograron goals.
+   Ejemplo: [situación real]
+
+6. Un startup de FinTech crea video testimonial de cliente que se convierte en poderoso que escrito.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

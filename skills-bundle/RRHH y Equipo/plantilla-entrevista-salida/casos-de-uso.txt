@@ -1,0 +1,23 @@
+CASOS DE USO — plantilla-entrevista-salida
+===========================================
+
+1. Un empleado de alto rendimiento renuncia; entrevista revela insights sobre cultura y burnout.
+   Ejemplo: [situación real]
+
+2. Una empresa ve que 40% de hires se van en año 1; entrevistas de salida identifican onboarding deficiente.
+   Ejemplo: [situación real]
+
+3. Un líder técnico se va; entrevista documenta conocimiento crítico del proyecto.
+   Ejemplo: [situación real]
+
+4. Un equipo de ventas experimenta alta rotación; entrevistas de salida revelan conflictos con manager específico.
+   Ejemplo: [situación real]
+
+5. Una empresa prepara case study sobre retención; entrevistas de salida proporcionan datos.
+   Ejemplo: [situación real]
+
+6. Un director de RRHH requiere feedback estructurado de empleados que se van.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

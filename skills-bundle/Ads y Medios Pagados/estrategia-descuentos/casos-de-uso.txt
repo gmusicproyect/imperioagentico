@@ -1,0 +1,23 @@
+CASOS DE USO — Estrategia Descuentos
+================================
+
+1. Implementación para mejorar eficiencia
+   Ejemplo: Una empresa implementa Estrategia Descuentos para optimizar su estrategia descuentos y liberar recursos para tareas estratégicas.
+
+2. Escalabilidad a nuevos mercados o equipos
+   Ejemplo: Cuando el negocio crece, la empresa adapta Estrategia Descuentos para mantener consistencia en todos sus equipos regionales.
+
+3. Capacitación e onboarding de nuevo equipo
+   Ejemplo: Al incorporar nuevos miembros, se usa Estrategia Descuentos como referencia para garantizar que todos sigan los mismos estándares.
+
+4. Evaluación y mejora continua
+   Ejemplo: Trimestralmente, se evalúa qué tan bien está funcionando Estrategia Descuentos y se implementan mejoras basadas en feedback.
+
+5. Cumplimiento y mitigación de riesgos
+   Ejemplo: La empresa asegura que la implementación de Estrategia Descuentos cumple con regulaciones y minimiza riesgos operacionales.
+
+6. Benchmark y mejora competitiva
+   Ejemplo: Se comparan resultados de Estrategia Descuentos contra mejores prácticas de la industria para identificar oportunidades de ventaja.
+
+---
+Imperio Digital Skills Bundle

@@ -1,0 +1,19 @@
+CASOS DE USO — Script Video
+================================
+
+1. Un productero de software graba un video demo de 3 minutos. Escribes script que introduce problema en 10 segundos, demuestra solución en 90 segundos, y termina con CTA.
+   Ejemplo: Situación específica del uso
+
+2. Un influencer de YouTube necesita script para video educativo de 8 minutos sobre productividad. Estructura: hook en primeros 10 segundos, 3 puntos principales con ejemplos, conclusión con CTA.
+   Ejemplo: Situación específica del uso
+
+3. Una coach de vida graba testimonial en video de 60 segundos. Escribes script que articula transformación cliente en tiempo limitado de forma creíble.
+
+4. Un agency crea video de marca de 90 segundos. Produces script que comunica diferenciador único, demuestra calidad del trabajo, y guía a página de contacto.
+
+5. Un educador crea serie de videos cortos de 30-45 segundos para redes sociales. Escribes scripts que atraen atención en primeros 3 segundos y comunican un concepto.
+
+6. Una empresa B2B graba video para homepage explicando su solución a un problema específico. Produces script que reduce objeción de precio y aumenta demos programadas.
+
+---
+Imperio Digital Skills Bundle

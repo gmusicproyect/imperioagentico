@@ -1,0 +1,23 @@
+CASOS DE USO — Analisis Sentimiento
+================================
+
+1. Implementación para mejorar eficiencia
+   Ejemplo: Una empresa implementa Analisis Sentimiento para optimizar su analisis sentimiento y liberar recursos para tareas estratégicas.
+
+2. Escalabilidad a nuevos mercados o equipos
+   Ejemplo: Cuando el negocio crece, la empresa adapta Analisis Sentimiento para mantener consistencia en todos sus equipos regionales.
+
+3. Capacitación e onboarding de nuevo equipo
+   Ejemplo: Al incorporar nuevos miembros, se usa Analisis Sentimiento como referencia para garantizar que todos sigan los mismos estándares.
+
+4. Medición periódica de impacto
+   Ejemplo: Cada mes, el equipo revisa las métricas de Analisis Sentimiento para identificar qué está funcionando y qué necesita ajuste.
+
+5. Cumplimiento y mitigación de riesgos
+   Ejemplo: La empresa asegura que la implementación de Analisis Sentimiento cumple con regulaciones y minimiza riesgos operacionales.
+
+6. Benchmark y mejora competitiva
+   Ejemplo: Se comparan resultados de Analisis Sentimiento contra mejores prácticas de la industria para identificar oportunidades de ventaja.
+
+---
+Imperio Digital Skills Bundle

@@ -1,0 +1,23 @@
+CASOS DE USO — Auditoria Marca
+================================
+
+1. Auditoría inicial de situación actual
+   Ejemplo: Un emprendedor usa Auditoria Marca para evaluar el estado actual de su auditoria marca y establecer una línea base de mejora.
+
+2. Escalabilidad a nuevos mercados o equipos
+   Ejemplo: Cuando el negocio crece, la empresa adapta Auditoria Marca para mantener consistencia en todos sus equipos regionales.
+
+3. Capacitación e onboarding de nuevo equipo
+   Ejemplo: Al incorporar nuevos miembros, se usa Auditoria Marca como referencia para garantizar que todos sigan los mismos estándares.
+
+4. Evaluación y mejora continua
+   Ejemplo: Trimestralmente, se evalúa qué tan bien está funcionando Auditoria Marca y se implementan mejoras basadas en feedback.
+
+5. Cumplimiento y mitigación de riesgos
+   Ejemplo: La empresa asegura que la implementación de Auditoria Marca cumple con regulaciones y minimiza riesgos operacionales.
+
+6. Benchmark y mejora competitiva
+   Ejemplo: Se comparan resultados de Auditoria Marca contra mejores prácticas de la industria para identificar oportunidades de ventaja.
+
+---
+Imperio Digital Skills Bundle

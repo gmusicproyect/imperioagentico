@@ -1,0 +1,23 @@
+CASOS DE USO — plan-aplicacion-sin-codigo
+==========================================
+
+1. Un founder con idea pero sin skills de coding crea plan de no-code app.
+   Ejemplo: [situación real]
+
+2. Una startup crea plan de aplicación sin código para MVP.
+   Ejemplo: [situación real]
+
+3. Un emprendedor sin budget de dev usa plan de no-code para probar idea.
+   Ejemplo: [situación real]
+
+4. Una empresa pequeña usa no-code para crear aplicación interna.
+   Ejemplo: [situación real]
+
+5. Un founder evalúa no-code vs custom dev; plan de no-code muestra ventajas.
+   Ejemplo: [situación real]
+
+6. Una startup de FinTech crea plan de no-code para fase de prototipo.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

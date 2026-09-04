@@ -1,0 +1,23 @@
+CASOS DE USO — Reclutamiento Voluntarios
+==================================================
+
+1. ONG documentando impacto social para reportes a donantes corporativos
+   Ejemplo: Situación empresarial donde esto es crítico
+
+2. Fundación capturando stories de beneficiarios para fundraising campaign
+   Ejemplo: Situación empresarial donde esto es crítico
+
+3. Organización sin fines de lucro comunicando misión y visión a aliados
+   Ejemplo: Situación empresarial donde esto es crítico
+
+4. Coalición de ONGs coordinando iniciativa comunitaria con múltiples actores
+   Ejemplo: Situación empresarial donde esto es crítico
+
+5. Voluntario compartiendo experiencia personal para recaudar fondos online
+   Ejemplo: Situación empresarial donde esto es crítico
+
+6. Institución educativa conectando con aliados para ampliar alcance
+   Ejemplo: Situación empresarial donde esto es crítico
+
+---
+Imperio Digital Skills Bundle

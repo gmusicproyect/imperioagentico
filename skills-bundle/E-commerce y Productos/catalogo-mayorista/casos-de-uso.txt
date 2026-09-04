@@ -1,0 +1,19 @@
+CASOS DE USO — Catalogo Mayorista
+================================
+
+1. Un educador crea primer curso en línea usando esta skill para estructurar contenido.
+   Ejemplo: Situación específica del uso
+
+2. Una empresa implementa programa de capacitación interno usando esta skill.
+   Ejemplo: Situación específica del uso
+
+3. Un coach diseña programa de certificación de varias semanas usando esta skill.
+
+4. Una institución educativa moderniza curriculum legacy usando framework de esta skill.
+
+5. Un bootcamp estructura programa de 12 semanas usando esta skill para competencia clara.
+
+6. Un creador lanza masterclass usando esta skill para garantizar progresión lógica.
+
+---
+Imperio Digital Skills Bundle

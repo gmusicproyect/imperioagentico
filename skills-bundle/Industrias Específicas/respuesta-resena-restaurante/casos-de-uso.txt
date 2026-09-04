@@ -1,0 +1,23 @@
+CASOS DE USO — respuesta-resena-restaurante
+============================================
+
+1. Un restaurante crea plantilla de respuesta a reviews negativas.
+   Ejemplo: [situación real]
+
+2. Una cadena de restaurantes responde a todas reviews en Google.
+   Ejemplo: [situación real]
+
+3. Un founder de startup de food crea protocolo de respuesta a reviews.
+   Ejemplo: [situación real]
+
+4. Una agencia de F&B crea sistema de respuesta a reviews para clientes.
+   Ejemplo: [situación real]
+
+5. Un chef que abre restaurante responde estratégicamente a reviews.
+   Ejemplo: [situación real]
+
+6. Una plataforma de delivery crea template de respuesta a reviews.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle

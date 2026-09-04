@@ -1,0 +1,23 @@
+CASOS DE USO — puntuacion-salud-cliente
+========================================
+
+1. Un SaaS crea scoring model que identifica clientes saludables vs en riesgo.
+   Ejemplo: [situación real]
+
+2. Una empresa de subscription usa health score para priorizar customer success activities.
+   Ejemplo: [situación real]
+
+3. Un startup de SaaS desarrolla health score que combina usage, sentiment, NPS.
+   Ejemplo: [situación real]
+
+4. Una agencia de servicios crea health score para monitorear satisfacción de clientes.
+   Ejemplo: [situación real]
+
+5. Un founder de plataforma usa health score para triggers automatizados de intervención.
+   Ejemplo: [situación real]
+
+6. Una empresa de educación crea health score para estudiantes que predice completation.
+   Ejemplo: [situación real]
+
+---
+Imperio Digital Skills Bundle
