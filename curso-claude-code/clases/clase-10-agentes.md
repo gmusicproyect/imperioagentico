@@ -1,7 +1,7 @@
 # Clase 10 — Agentes & Subagentes
 
 **Tags:** `Agentes` `Ultra` `Orquestación` `Paralelismo`
-**Conecta con:** Clase 09 · Clase 11 · Clase 14
+**Conecta con:** Clase 09 · Clase 11 · Clase 14 · Bono El Espejo
 
 ---
 

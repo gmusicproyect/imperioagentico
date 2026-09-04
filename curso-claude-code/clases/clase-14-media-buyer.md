@@ -1,7 +1,7 @@
 # Clase 14 — Proyecto Real: Media Buyer Agent
 
 **Tags:** `Proyecto` `Meta` `Hailuo` `Agente Real`
-**Conecta con:** Clase 10 · Clase 06 · Clase 12 · Clase 17
+**Conecta con:** Clase 10 · Clase 06 · Clase 12 · Clase 17 · Bono Meta Ads
 
 ---
 

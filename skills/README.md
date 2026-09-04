@@ -28,6 +28,9 @@ Usa nombres descriptivos en kebab-case que indiquen **qué hace** el skill:
 
 | Skill | Descripción |
 |-------|-------------|
+| [configurar-agente-meta-ads](./configurar-agente-meta-ads/SKILL.md) | Configurar agente CLI de Meta Marketing API (Matías) con One Prompt Setup |
+| [aplicar-framework-smart](./aplicar-framework-smart/SKILL.md) | Operar Claude Desktop/Cowork/Code con Skills, MCP, Artifacts, Refine y Test |
+| [ejecutar-el-espejo](./ejecutar-el-espejo/SKILL.md) | Ejecutar auditoría forense de sesiones locales con 6 fases, gates y roadmap 30 días |
 | [mapear-conocimiento-graphify](./mapear-conocimiento-graphify/SKILL.md) | Construir grafos de conocimiento local con Tree-sitter y Leiden para ahorrar tokens (4.2x) |
 | [auditar-operacion-agentica](./auditar-operacion-agentica/SKILL.md) | Auditar consumo de tokens, ROI frente a APIs, salud de memoria y empaquetar skills con El Sueño |
 | [produccion-creativa-higgsfield](./produccion-creativa-higgsfield/SKILL.md) | Producir fotos de producto, video cinematográfico y UGC con Higgsfield MCP optimizando créditos |

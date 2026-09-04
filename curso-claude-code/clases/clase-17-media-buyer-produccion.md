@@ -1,7 +1,7 @@
 # Clase 17 — Media Buyer Agent en producción: personalización y research de competencia
 
 **Tags:** `Meta MCP` `Personalización` `Competencia` `Browser`
-**Conecta con:** Clase 14 · Clase 10 · Clase 07
+**Conecta con:** Clase 14 · Clase 10 · Clase 07 · Bono Meta Ads
 
 ---
 

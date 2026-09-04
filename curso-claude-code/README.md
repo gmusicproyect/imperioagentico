@@ -21,6 +21,7 @@ Documentación completa de las 16 clases núcleo del curso, más extensiones pr�
 → Clase 18 (profundiza la Clase 13 con LLM Wiki estilo Karpathy sin RAG)
 → Clase 19 (profundiza la Clase 05 con Skills en producción, meta-skills y MCPs)
 → Clase 20 (profundiza las Clases 01-03 con Masterclass en vivo, Cowork vs Code y Q&A)
+→ Clase 21 (metodología integral con el Framework SMART: Skills, MCP, Artifacts, Refine y Test)
 
 ## Archivos
 
@@ -46,3 +47,4 @@ Documentación completa de las 16 clases núcleo del curso, más extensiones pr�
 | [clase-18-llm-wiki-obsidian.md](./clases/clase-18-llm-wiki-obsidian.md) | LLM Wiki con Obsidian (memoria infinita sin RAG) |
 | [clase-19-skills-en-produccion.md](./clases/clase-19-skills-en-produccion.md) | Skills en producción (casos reales, meta-skills y MCPs) |
 | [clase-20-fundamentos-en-vivo.md](./clases/clase-20-fundamentos-en-vivo.md) | Masterclass de fundamentos (Chat/Cowork/Code, demo en vivo, Q&A) |
+| [clase-21-framework-smart.md](./clases/clase-21-framework-smart.md) | Framework SMART (Skills, MCP, Artifacts, Refine, Test) |

@@ -15,3 +15,5 @@ Módulos adicionales del curso Claude Code. Cada bono tiene su propia carpeta co
 | [Higgsfield MCP](./higgsfield/) | Agencia creativa completa: fotos de producto, video cinematográfico, UGC y thumbnails | Higgsfield MCP · GPT Image 2 · Kling 3.0 · Seedance 2.0 |
 | [Motor Agéntico](./motor-agentico/) | Dashboard local de ROI, control de tokens, salud de memoria y El Sueño | Bun · React · Vite · Transcripts locales |
 | [Graphify](./graphify/) | Mapeo de conocimiento local, grafo multimodal y reducción de tokens (4.2x) | Tree-sitter · faster-whisper · Leiden · Claude Code |
+| [El Espejo](./el-espejo/) | Auditoría forense de sesiones, análisis de hábitos y roadmap 30 días | Fable 5 [1M] · Claude Code · Transcripts JSONL · HTML Artifacts |
+| [Meta Ads 2.0 (Matías)](./meta-ads/) | Agente Ad Manager con el MCP oficial de Meta (97 herramientas) + Higgsfield | Meta Ads MCP Oficial · Higgsfield MCP · Claude Code |
