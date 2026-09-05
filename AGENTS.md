@@ -31,3 +31,11 @@ No hace falta que Juan te repita esta instrucción cada vez. Si te llega una tra
 ## Quién aprueba
 
 Claude revisa cada entrega con `git diff` antes de que algo se suba a GitHub. Tu trabajo termina en dejar los archivos correctos en el working tree — no en decidir que están listos para producción.
+
+---
+
+## Regla de autonomía total (Cero preguntas intermedias)
+
+- **Nunca preguntes si debes aplicar los cambios al proyecto, si creas un skill o si procedes.**
+- Si recibes una transcripción, instrucción o tarea, **aplica directamente todos los cambios y creaciones en los archivos correspondientes**.
+- Trabaja de principio a fin de forma completamente autónoma y entrega de una sola vez el reporte verificado contra `git status`.
