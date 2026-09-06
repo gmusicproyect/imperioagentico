@@ -92,7 +92,23 @@ listas para pasos o conceptos enumerados.]
 - El ejercicio nunca requiere una herramienta o concepto que no se haya visto todavía en el curso — solo usa lo ya explicado hasta esa clase
 - No inventar contenido que no esté en la fuente. Si algo no quedó claro, marcar `[PENDIENTE: confirmar con Juan]` en vez de rellenar con una suposición
 
-### Paso 4 — Actualizar los índices
+### Paso 4 — Verificar replicabilidad antes de entregar
+
+El objetivo no es "no perder nada" de la transcripción — es que la fuente ya no haga falta para replicar lo enseñado. Antes de dar la clase por terminada, revisar contra la fuente:
+
+- Todo paso práctico, demo o acción en pantalla que el instructor haya mostrado (comandos exactos, clicks, configuración, nombres de archivos/botones) tiene que quedar **literal** en el contenido o en el Ejercicio práctico — no resumido de forma tan genérica que se vuelva irreproducible.
+- Si la fuente muestra una secuencia de pasos concretos, esa secuencia va como lista numerada o bloque de código, no como una frase narrativa tipo "el instructor configuró la herramienta".
+- Preguntarse: *¿un alumno que solo lee este archivo, sin haber visto la fuente, puede ejecutar el mismo procedimiento y llegar al mismo resultado?* Si la respuesta es no en algún paso clave, ese paso está mal sintetizado — hay que ampliarlo, no dejarlo implícito.
+
+### Paso 5 — Verificar que el ejercicio prueba el propósito de la clase
+
+No basta con que el ejercicio sea replicable — tiene que probar específicamente el concepto que la clase más enfatiza, no un concepto adyacente más fácil de ejercitar.
+
+1. Identifica cuál es la afirmación central que se repite entre la Idea central, el Tip y el Error común (es la que el instructor insiste más en la fuente).
+2. Verifica que el Ejercicio 1 ejercite exactamente esa afirmación, no una tarea relacionada pero más superficial.
+3. Si el ejercicio no ejercita la afirmación central, reescríbelo para que sí lo haga — aunque eso signifique que sea más largo o más técnico que el resto.
+
+### Paso 6 — Actualizar los índices
 
 En el mismo commit que crea la clase:
 1. `curso-claude-code/README.md` → agregar la fila a la tabla de "Archivos"
@@ -119,7 +135,9 @@ En el mismo commit que crea la clase:
 | Falta el Ejercicio práctico | Se trató como sección opcional igual que el Tip | Es obligatoria — sin ella la clase es solo teoría y no cumple el propósito del repo |
 | Ejercicio teórico ("explica con tus palabras...") en vez de accionable | Es más fácil escribir una pregunta que un ejercicio ejecutable | El ejercicio debe hacerse EN Claude Code, con un resultado que se pueda verificar (un archivo creado, un comando que corrió, un output concreto) |
 | Ejercicio requiere algo de una clase futura | No se revisó el orden del curso antes de escribir el ejercicio | Solo usar herramientas/conceptos ya cubiertos hasta esa clase |
-| Índices no actualizados | Se creó el archivo pero no se tocó el README | Repetir el Paso 4 antes de dar la tarea por terminada |
+| Índices no actualizados | Se creó el archivo pero no se tocó el README | Repetir el Paso 6 antes de dar la tarea por terminada |
+| Paso práctico narrado en vez de detallado | Se priorizó la síntesis por encima de la replicabilidad | Volver a la fuente y extraer el comando/click/configuración exacta que se mostró (Paso 4) |
+| Ejercicio replicable pero que no prueba lo central de la clase | Se eligió la tarea más fácil de ejercitar en vez de la que el instructor más enfatizó | Aplicar el Paso 5: identificar la afirmación que se repite en Idea central/Tip/Error común y asegurarse de que el ejercicio la ejercite directamente |
 
 ---
 
