@@ -22,8 +22,6 @@ Documentación completa de las 16 clases núcleo del curso, más extensiones pr�
 → Clase 19 (profundiza la Clase 05 con Skills en producción, meta-skills y MCPs)
 → Clase 20 (profundiza las Clases 01-03 con Masterclass en vivo, Cowork vs Code y Q&A)
 → Clase 21 (metodología integral con el Framework SMART: Skills, MCP, Artifacts, Refine y Test)
-→ Clase 22 (Vibe Marketing: prompt a producto, carruseles a costo $0 y Forge Studio)
-→ Clase 23 (El Golden Path del Vibe Coding: Fable 5 vs Opus 4.8, Next.js, Supabase y Blueprints)
 
 ## Archivos
 
@@ -50,6 +48,4 @@ Documentación completa de las 16 clases núcleo del curso, más extensiones pr�
 | [clase-19-skills-en-produccion.md](./clases/clase-19-skills-en-produccion.md) | Skills en producción (casos reales, meta-skills y MCPs) |
 | [clase-20-fundamentos-en-vivo.md](./clases/clase-20-fundamentos-en-vivo.md) | Masterclass de fundamentos (Chat/Cowork/Code, demo en vivo, Q&A) |
 | [clase-21-framework-smart.md](./clases/clase-21-framework-smart.md) | Framework SMART (Skills, MCP, Artifacts, Refine, Test) |
-| [clase-22-vibe-marketing.md](./clases/clase-22-vibe-marketing.md) | Vibe Marketing (Forge Studio, carruseles a costo $0, video HTML) |
-| [clase-23-golden-path-fable-vs-opus.md](./clases/clase-23-golden-path-fable-vs-opus.md) | El Golden Path del Vibe Coding (Fable 5 vs Opus 4.8, Next.js, Supabase) |
 

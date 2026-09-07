@@ -10,14 +10,13 @@ Base de conocimiento completa del curso **Claude Code** de Imperio Digital, incl
 
 ```
 imperioagentico/
-├── curso-claude-code/          → Módulo principal (23 clases)
+├── curso-claude-code/          → Módulo principal (21 clases)
 │   └── clases/                 → Resumen de cada clase en Markdown
 ├── bonos/                      → Módulos extra del curso
 │   ├── ads-cabrones-ia/        → Pipeline de ads con IA
 │   ├── claude-design/          → Prototipado UI y handoff a Claude Code
 │   ├── control-remoto/         → Servidor local 24/7 y acceso desde el celular
 │   ├── el-espejo/              → Auditoría forense de sesiones y roadmap 30 días
-│   ├── forge-studio/           → Estudio de contenido automatizado y carruseles a costo $0
 │   ├── gestion-sesiones/       → 5 métodos de sesiones y persistencia
 │   ├── go-high-level/          → Integración Claude Code + GHL
 │   ├── graphify/               → Mapeo de conocimiento y ahorro de tokens
@@ -34,7 +33,7 @@ imperioagentico/
 
 ## 🗺️ Módulos
 
-### Curso Claude Code — 23 clases
+### Curso Claude Code — 21 clases
 
 | # | Clase | Temas clave |
 |---|-------|-------------|
@@ -59,8 +58,6 @@ imperioagentico/
 | 19 | [Skills en producción](./curso-claude-code/clases/clase-19-skills-en-produccion.md) | Casos reales, meta-skills (Skill Creator) y MCPs |
 | 20 | [Masterclass de fundamentos](./curso-claude-code/clases/clase-20-fundamentos-en-vivo.md) | Chat vs Cowork vs Code, demo en vivo, /loop y Q&A |
 | 21 | [Framework SMART](./curso-claude-code/clases/clase-21-framework-smart.md) | Metodología integral (Skills, MCP, Artifacts, Refine, Test) |
-| 22 | [Vibe Marketing](./curso-claude-code/clases/clase-22-vibe-marketing.md) | Forge Studio, carruseles a costo $0, composición HTML/video |
-| 23 | [Golden Path & Fable vs Opus](./curso-claude-code/clases/clase-23-golden-path-fable-vs-opus.md) | Next.js, Supabase, Blueprint único, Ultra Code y benchmark |
 
 ### Bonos
 
@@ -70,7 +67,6 @@ imperioagentico/
 | [Claude Design](./bonos/claude-design/) | Prototipado visual con Opus 4.7 y handoff funcional a Claude Code |
 | [Control Remoto](./bonos/control-remoto/) | Tu computador completo en el celular (Mac Mini 24/7 + MCPs) |
 | [El Espejo](./bonos/el-espejo/) | Auditoría forense de sesiones con Fable 5 [1M], análisis de hábitos y 4 HTMLs |
-| [Forge Studio Lite](./bonos/forge-studio/) | Estudio de contenido automatizado, carruseles a costo $0 y composición HTML/video |
 | [Gestión de Sesiones](./bonos/gestion-sesiones/) | 5 métodos de persistencia, recuperación y ramificación |
 | [Go High Level](./bonos/go-high-level/) | CRM completo desde terminal vía MCP |
 | [Graphify](./bonos/graphify/) | Mapeo de conocimiento local, grafo multimodal y reducción de tokens (4.2x) |
@@ -109,8 +105,6 @@ Clase 10 (Agentes)    ──→ Clase 14 (Media Buyer) · Bono El Espejo · Bono
 Clase 12 (Routines)   ──→ Bono Ads Cabrones IA
 Clase 13 (Obsidian)   ──→ Clase 18 (LLM Wiki) · Bono Graphify
 Clase 21 (SMART)      ──→ Clase 05 (Skills) · Clase 06 (MCP) · Clase 11 (DAME)
-Clase 22 (Vibe Mktg)  ──→ Bono Forge Studio · Bono Higgsfield MCP
-Clase 23 (Golden Path)──→ Clase 03 (Config) · Clase 07 (Playwright) · Skills/
 ```
 
 ---
