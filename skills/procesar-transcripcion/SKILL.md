@@ -15,6 +15,7 @@ Siempre que llegue una transcripción cruda (grabación, audio, notas) de cualqu
 ## Prerequisitos
 
 - [ ] Transcripción cruda del contenido
+- [ ] **Confirmar que el contenido pertenece al curso Claude Code y no al curso Vibe Coding** (repo hermano `vibe-coding`). Ambos cursos comparten instructor y muchos temas se solapan — si el título o el contenido no queda claro a qué curso pertenece, preguntar antes de archivar. Un caso real: dos clases sobre Forge Studio y benchmarks de modelos se archivaron por error acá cuando eran de Vibe Coding — el error solo se detectó al cruzar contra la lista oficial de sesiones.
 - [ ] Acceso de lectura a `curso-claude-code/clases/`, `bonos/` y `skills/` para no duplicar algo que ya existe
 - [ ] Acceso de escritura al repo local (sin permiso de commit/push — ver Paso 3)
 
