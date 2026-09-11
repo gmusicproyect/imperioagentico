@@ -31,6 +31,18 @@ imperioagentico/
 
 ---
 
+## 🚀 Proyecto del curso
+
+El curso no es solo una lista de temas sueltos: converge en **un proyecto real y replicable**, el mismo patrón que sigue el curso hermano [Vibe Coding](https://github.com/gmusicproyect/vibe-coding#-proyectos-del-curso).
+
+| Proyecto | Clases | Qué se construye | Extensión |
+|----------|--------|-------------------|-----------|
+| **Media Buyer Agent** | [14](./curso-claude-code/clases/clase-14-media-buyer.md), [17](./curso-claude-code/clases/clase-17-media-buyer-produccion.md) | Agente de gestión de campañas de Meta Ads 100% desde Claude Code: lee métricas vía Meta MCP, pausa ads con bajo desempeño, genera nuevos creativos con Hailuo, registra todo en Airtable y envía reportes por Telegram — sin abrir el Ads Manager. En la clase 17 se personaliza por país y se agrega research de competencia | [Bono Meta Ads 2.0 (Matías)](./bonos/meta-ads/): mismo agente escalado con el MCP oficial de Meta (97 herramientas) + Higgsfield |
+
+Pensado para **clonarse y adaptarse** a otra cuenta publicitaria, otro nicho o incluso otra plataforma de ads, no solo para mirarlo terminado.
+
+---
+
 ## 🗺️ Módulos
 
 ### Curso Claude Code — 21 clases
